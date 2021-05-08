@@ -1,5 +1,7 @@
 ---
 title: Gage & Tollner's Harvey Wallbanger
+author: Jelani Johnson
+source: https://punchdrink.com/recipes/gage-tollners-harvey-wallbanger/
 ---
 
 ## Ingredients
