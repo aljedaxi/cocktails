@@ -1,5 +1,6 @@
 ---
 title: mexican firing squad
+source: https://punchdrink.com/recipes/mexican-firing-squad/
 ---
 
 ## Ingredients
