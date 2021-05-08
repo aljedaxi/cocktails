@@ -41,6 +41,7 @@ const markDown = ({path, prefix, tags}) => pipe([
 			tags: tags.join(', ')
 		},
 		text: joinWith ('\n') ([
+			section ('Description'),
 			description,
 			section ('Ingredients'),
 			...map (lItem) (ingredients),
