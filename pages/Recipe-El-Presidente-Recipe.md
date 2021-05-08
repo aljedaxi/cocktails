@@ -1,4 +1,5 @@
 ---
+tags: recipe
 title: El Presidente Recipe
 author: Paul Clarke
 source: https://www.seriouseats.com/el-presidente
