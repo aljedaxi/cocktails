@@ -2,7 +2,7 @@
   "name": "cock-zone",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE.TXT",
   "dependencies": {
     "fluture": "^14.0.0",
     "fluture-sanctuary-types": "^7.1.0",
