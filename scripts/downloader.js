@@ -29,7 +29,7 @@ const parseRecipe = ({ recipeIngredient, recipeInstructions, mainEntityOfPage, n
 	name, description, author: author.name
 })
 
-const section = s => `# ${s}`
+const section = s => `## ${s}`
 const lItem = s => `- ${s}`
 const markDown = ({path, prefix, tags}) => pipe([
 	({name, author, source, ingredients, instructions, description}) => ({
@@ -41,7 +41,6 @@ const markDown = ({path, prefix, tags}) => pipe([
 			tags: tags.join(', ')
 		},
 		text: joinWith ('\n') ([
-			section (name),
 			description,
 			section ('Ingredients'),
 			...map (lItem) (ingredients),
