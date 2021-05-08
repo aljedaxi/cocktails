@@ -2,6 +2,7 @@
 title: The Brooklyn Cocktail Recipe
 author: Blake Royer
 source: https://www.seriouseats.com/the-brooklyn-cocktail-rye-maraschino-vermouth
+tags: recipe
 ---
 # The Brooklyn Cocktail Recipe
 A spirited riff on the better-known Manhattan.
