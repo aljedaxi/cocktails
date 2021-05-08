@@ -8,7 +8,7 @@ const S = sanctuary.create ({checkTypes: true, env: sanctuary.env.concat (flutur
 const {
 	pipe, map, chain, Just, get, K, head, prop, T, joinWith, fromMaybe,
 	maybe, pair, Pair, fst, snd, maybeToEither, either, Right, lift2,
-	fromRight,
+	fromRight, find,
 } = S
 
 const fetch = encaseP (fetchP)
@@ -56,124 +56,17 @@ const markDown = ({path, prefix, tags}) => pipe([
 	].join('\n')),
 ])
 
-const parsersBySchemaType = { Recipe: parseRecipe, }
-
-const getSchemaType = pipe([getWhatever ('@type'), chain (head)])
-
-const getParserByType = o =>
-		chain (k => getWhatever (k) (parsersBySchemaType)) (getSchemaType (o))
+const isRecipe = pipe([ o => o['@type'], x => x?.includes('Recipe') ?? false ])
 const parseByType = pipe([
-	o => map (T (o)) (getParserByType (o)),
-	maybeToEither ('either no parser exists for this schema, or something else happened who knows lol')
+	o => isRecipe (o) ? Just(o) : find (x => x['@type'] === 'Recipe') (o['@graph']),
+	map (parseRecipe),
+	maybeToEither ('couldn\'t find a recipe in here')
 ])
+
 
 const getFromUrl = pipe([ fetch, chainF (text), map (Right) ])
 const getFromFile = pipe([ readFile, map (Right)])
 const getFromWhatYouHaveHere = () => resolve(Right(
-		{
-	"@context": "http://schema.org",
-	"@type": ["Recipe"]
-	,"headline": "The French Kiss Recipe"
-	,"datePublished": "2011-02-28T13:30:00.000Z"
-	,"dateModified": "2018-08-30T10:01:52.000Z"
-	,"author":
-	{"@type": "Person"
-	,"name": "Blake Royer"
-	,"sameAs": [
-	"https://www.seriouseats.com/blake-royer-5118571"
-	]
-	}
-	,"description": "This simple drink proves that vermouth doesn&#39;t really need to be mixed with stronger stuff. The French Kiss is refreshing as an apertif or on a hot summer&#39;s day. Use French sweet vermouth if you really want to be true to the name."
-	,"image": [
-	{
-	"@type": "ImageObject",
-	"url": "https://www.seriouseats.com/thmb/cze0bScyK1glDRZmMoyDVc9G6HU=/610x343/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20110224frenchkissprimary-18925ed1c9ff4907a76893acc3b508fe.jpg",
-	"height": 343,
-	"width": 610
-	},
-	{
-	"@type": "ImageObject",
-	"url": "https://www.seriouseats.com/thmb/p3h2q3mwRhC0C3qf6nPx4zoMNs4=/610x458/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20110224frenchkissprimary-18925ed1c9ff4907a76893acc3b508fe.jpg",
-	"height": 458,
-	"width": 610
-	},
-	{
-	"@type": "ImageObject",
-	"url": "https://www.seriouseats.com/thmb/sjizi8AH-GdCuY0177yo1jvMW_U=/458x458/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20110224frenchkissprimary-18925ed1c9ff4907a76893acc3b508fe.jpg",
-	"height": 458,
-	"width": 458
-	}
-	]
-	,"publisher": {
-	"@type": "Organization",
-	"name": "Serious Eats",
-	"url": "https://www.seriouseats.com",
-	"logo": {
-	"@type": "ImageObject",
-	"url": "https://www.seriouseats.com/thmb/O7qOTYhS4IAKSKnr4JmNDURwjhw=/320x320/filters:no_upscale():max_bytes(150000):strip_icc()/Serious_Eats_Schema_Logo-033d1e058bdb4c8d9e0ada84a4485482.png",
-	"width": 320,
-	"height": 320
-	},
-	"brand": "Serious Eats"
-	, "publishingPrinciples": "https://www.seriouseats.com/about-us-5120006#editorial-guidelines"
-	}
-	,"name": "The French Kiss Recipe"
-	,"aggregateRating": {
-	"@type": "AggregateRating",
-	"ratingValue": "5",
-	"ratingCount": "1"
-	}
-	,"keywords": "cocktail, vermouth"
-	, "recipeCategory": ["Liqueur and Fortified Wines"]
-	,"recipeIngredient": [
-	"2 ounces sweet vermouth",
-	"2 ounces dry vermouth",
-	"twist of lemon peel" ]
-	,"recipeInstructions": [
-	{
-	"@type": "HowToStep"
-	,"text": "Pour both vermouths into an old fashioned glass over ice. Stir, twist lemon peel over drink, and drop in."
-	} ]
-	,"recipeYield": "1"
-	,"totalTime": "PT2M"
-	,"mainEntityOfPage": {
-	"@type": ["WebPage"]
-	,"@id": "https://www.seriouseats.com/the-french-kiss-sweet-vermouth-dry-vermouth-easy-cocktail"
-	,"breadcrumb": {
-	"@type": "BreadcrumbList",
-	"itemListElement": [
-	{
-	"@type": "ListItem",
-	"position": 1,
-	"item": {
-	"@id": "https://www.seriouseats.com/cocktail-recipes-5117858",
-	"name": "Cocktails"
-	}
-	}
-	,
-	{
-	"@type": "ListItem",
-	"position": 2,
-	"item": {
-	"@id": "https://www.seriouseats.com/liqueur-fortified-wine-recipes-5117854",
-	"name": "Liqueurs & Fortified Wines"
-	}
-	}
-	,
-	{
-	"@type": "ListItem",
-	"position": 3,
-	"item": {
-	"@id": "https://www.seriouseats.com/the-french-kiss-sweet-vermouth-dry-vermouth-easy-cocktail",
-	"name": "The French Kiss Recipe"
-	}
-	}
-	]
-	}
-	}
-	, "about": [
-	]
-	}
 ))
 
 // getContent :: Fluture -> Promise -> Object
