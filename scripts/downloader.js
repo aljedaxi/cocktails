@@ -31,10 +31,15 @@ const parseRecipe = ({ recipeIngredient, recipeInstructions, mainEntityOfPage, n
 
 const section = s => `# ${s}`
 const lItem = s => `- ${s}`
-const markDown = ({path, prefix}) => pipe([
+const markDown = ({path, prefix, tags}) => pipe([
 	({name, author, source, ingredients, instructions, description}) => ({
 		fileName: `${path}${prefix}-${name.replace(/\s/g, '-')}.md`,
-		metadata: {title: name, author, source: fromMaybe ('') (source)},
+		metadata: {
+			title: name, 
+			author, 
+			source: fromMaybe ('') (source),
+			tags: tags.join(', ')
+		},
 		text: joinWith ('\n') ([
 			section (name),
 			description,
@@ -179,7 +184,7 @@ const getContent = pipe([
 ])
 const main = path => pipe([
 	getContent,
-	map (map (markDown ({path, prefix: 'Recipe'}))),
+	map (map (markDown ({path, prefix: 'Recipe', tags: ['Recipe']}))),
 	chain (either (reject) (pair (writeFile)))
 ])
 
