@@ -2,6 +2,7 @@
 title: High King Highball
 author: Liquor.com
 source: https://www.liquor.com/recipes/high-king-highball/
+tags: Recipe
 ---
 # High King Highball
 Pouring Ribbons bartender Joaquín Simón makes the High King Highball with Irish whiskey, Aperol, raspberries and two kinds of citrus.
