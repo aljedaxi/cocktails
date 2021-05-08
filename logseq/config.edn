@@ -7,7 +7,7 @@
  ;; Preferred workflow style. 
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Git settings
  :git-pull-secs 60
@@ -71,4 +71,5 @@
  ;; input "{{{poem red,blue}}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}}
+ :macros {}
+ :date-formatter "MMM do, yyyy"}
