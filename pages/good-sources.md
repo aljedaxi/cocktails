@@ -1,5 +1,5 @@
 ---
 title: Good Sources
 ---
-## https://www.seriouseats.com/how-to-shake-a-cocktail-stir-strain
+## https://www.seriouseats.com
 ## https://punchdrink.com
