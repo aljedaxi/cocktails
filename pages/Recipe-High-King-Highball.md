@@ -7,9 +7,9 @@ source: https://www.liquor.com/recipes/high-king-highball/
 Pouring Ribbons bartender Joaquín Simón makes the High King Highball with Irish whiskey, Aperol, raspberries and two kinds of citrus.
 # Ingredients
 - 3 large [[raspberries]]
-- 1/2 ounce simple syrup
-- 2 ounces Clontarf Irish whiskey
-- 1/2 ounce Aperol
+- 1/2 ounce [[simple syrup]]
+- 2 ounces Clontarf [[Irish whiskey]]
+- 1/2 ounce [[Aperol]]
 - 3/4 ounce lemon juice, freshly squeezed
 - 3/4 ounce grapefruit juice, freshly squeezed
 - 1 dash Peychaud’s bitters
