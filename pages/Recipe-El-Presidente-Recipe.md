@@ -4,7 +4,7 @@ author: Paul Clarke
 source: https://www.seriouseats.com/el-presidente
 ---
 # El Presidente Recipe
-A classic rum cocktail that hasn&#39;t gotten the attention it deserves.
+A classic rum cocktail that hasn't gotten the attention it deserves.
 # Ingredients
 - 1 1/2 ounces [[white rum]]
 - 3/4 ounce [[dry vermouth]] 
