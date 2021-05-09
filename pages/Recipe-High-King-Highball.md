@@ -16,7 +16,7 @@ Pouring Ribbons bartender Joaquín Simón makes the High King Highball with Iris
 - 1 dash [[Peychaud's bitters]]
 - [[Club soda]], to top
 - Garnish: lemon wheel
-- Garnish: raspberry
+- Garnish: [[raspberry]]
 # Steps
 - In a cocktail shaker, muddle the raspberries and simple syrup.
 - Add the Irish whiskey, Aperol, lemon juice, grapefruit juice and bitters into the shaker with ice, and shake until well-chilled.
