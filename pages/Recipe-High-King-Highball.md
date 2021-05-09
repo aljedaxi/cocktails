@@ -9,7 +9,7 @@ Pouring Ribbons bartender Joaquín Simón makes the High King Highball with Iris
 # Ingredients
 - 3 large [[raspberries]]
 - 1/2 ounce [[simple syrup]]
-- 2 ounces Clontarf [[Irish whiskey]]
+- 2 ounces Clontarf [[Irish [[whiskey]]]]
 - 1/2 ounce [[Aperol]]
 - 3/4 ounce lemon juice, freshly squeezed
 - 3/4 ounce grapefruit juice, freshly squeezed
