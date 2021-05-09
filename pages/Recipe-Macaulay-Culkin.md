@@ -13,8 +13,8 @@ This tequila cocktail includes traditional ingredients with a few weird twists. 
 - 1/2 oz Fresh [[lime juice]] 
 - 1/2 oz [[Agave syrup]]
 - 1 [[Egg white]]
-- 4 dashes Chocolate bitters
-- Garnish: Rosemary sprig
+- 4 dashes [[Chocolate bitters]]
+- Garnish: [[Rosemary]] sprig
 ## Steps
 - Add all ingredients into a shaker and dry-shake (no ice).
 - Add ice and shake again until well-chilled and a smooth froth forms.
