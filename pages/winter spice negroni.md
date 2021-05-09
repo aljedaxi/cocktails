@@ -8,7 +8,7 @@ tags: Recipe
 ## Ingredients:
 - 1.5 oz [[Winter Spice [[gin]]]]
 - 0.5 oz [[Campari]]
-- 1 oz [[mulled wine]] 
+- 1 oz [[mulled [[wine]]]] 
 - [[orange peel]]
 ## Instructions:
 - Combine liquids in a tall stirring glass. 
