@@ -12,7 +12,7 @@ Pouring Ribbons bartender Joaquín Simón makes the High King Highball with Iris
 - 2 ounces Clontarf [[Irish [[whiskey]]]]
 - 1/2 ounce [[Aperol]]
 - 3/4 ounce [[lemon juice]], freshly squeezed
-- 3/4 ounce grapefruit juice, freshly squeezed
+- 3/4 ounce [[grapefruit juice]], freshly squeezed
 - 1 dash [[Peychaud's bitters]]
 - [[Club soda]], to top
 - Garnish: lemon wheel
