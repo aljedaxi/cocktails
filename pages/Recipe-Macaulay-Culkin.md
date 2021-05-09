@@ -7,7 +7,7 @@ tags: Recipe
 ## Description
 This tequila cocktail includes traditional ingredients with a few weird twists. Learn how to make it today at Liquor.com.
 ## Ingredients
-- 1 oz Blanco tequila
+- 1 oz [[Blanco tequila]]
 - 1 oz Amaretto
 - 1/2 oz Fresh lemon juice
 - 1/2 oz Fresh lime juice
