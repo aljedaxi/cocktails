@@ -1,0 +1,5 @@
+---
+title: wine
+---
+
+## [[mulled wine]]
