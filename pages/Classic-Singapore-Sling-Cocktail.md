@@ -8,8 +8,8 @@ tags: Recipe
 The Singapore sling is an iconic gin cocktail, but recipes rarely agree. Explore six historical and modern variations to find your ideal recipe.
 ## Ingredients
 - 1 1/2 ounces [[gin]] 
-- 1 ounce Bénédictine
-- 1 ounce lime juice
+- 1 ounce [[Bénédictine]]
+- 1 ounce [[[[lime]] juice]] 
 - 1/2 ounce cherry liqueur
 - 1/4 ounce simple syrup
 - 2 ounces club soda
