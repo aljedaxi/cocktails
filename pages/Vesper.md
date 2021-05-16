@@ -6,7 +6,7 @@ tags: Recipe
 ---
 
 # Description
-Get a taste of James Bond&#39;s famous Vesper [[martini]]. Straight out of Ian Fleming&#39;s novel, this gin and vodka martini is an easy cocktail to mix up.
+Get a taste of James Bond's famous Vesper [[martini]]. Straight out of Ian Fleming's novel, this gin and vodka martini is an easy cocktail to mix up.
 ## Ingredients
 - 3 ounces [[gin]] (Gordon's)
 - 1 ounce [[vodka]] 
