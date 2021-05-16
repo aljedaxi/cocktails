@@ -13,8 +13,8 @@ The Singapore sling is an iconic gin cocktail, but recipes rarely agree. Explore
 - 1/2 ounce [[cherry liqueur]]
 - 1/4 ounce [[simple syrup]] 
 - 2 ounces [[Club soda]] 
-- Lemon slice , garnish
-- Maraschino cherry, garnish
+- [[[[lemon]] slice]] , garnish
+- [[Maraschino cherry]], garnish
 ## Steps
 - Gather the ingredients.
 - In a cocktail shaker filled with ice cubes, pour the gin, Bénédictine, cherry liqueur, lime juice, and simple syrup.
