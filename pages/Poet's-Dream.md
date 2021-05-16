@@ -9,7 +9,6 @@ A wacky [[martini]]
 - 2 oz [[gin]] 
 - .25 oz [[Bénédictine]] D.O.M. liqueur
 - .75 oz [[dry vermouth]] 
-- 2 [[orange bitters]] 
-- 10 ml Chilled water (omit if using wet ice)
+- 2 [[orange bitters]]
 ## Steps
 - STIR all ingredients with ice and strain into chilled glass
