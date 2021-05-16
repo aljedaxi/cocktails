@@ -9,4 +9,4 @@ This refreshing and floral take on an Old Fashioned is perfect for those looking
 - 2oz [[gin]] (a nice floral gin works well with this)
 - 5oz [[St. Germain]] Elderflower Liqueur
 - 2 dashes [[orange bitters]] 
-- [[Lemon twist]] for garnish
+- [[ [[lemon]] twist]] for garnish
