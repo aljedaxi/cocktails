@@ -9,7 +9,7 @@ This tequila cocktail includes traditional ingredients with a few weird twists. 
 ## Ingredients
 - 1 oz [[Blanco [[tequila]]]]
 - 1 oz [[Amaretto]]
-- 1/2 oz Fresh [[lemon juice]] 
+- 1/2 oz Fresh [[[[lemon]] juice]] 
 - 1/2 oz Fresh [[lime juice]] 
 - 1/2 oz [[Agave syrup]]
 - 1 [[Egg white]]
