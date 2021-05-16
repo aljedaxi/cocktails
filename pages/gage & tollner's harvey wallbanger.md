@@ -2,8 +2,8 @@
 title: Gage & Tollner's Harvey Wallbanger
 author: Jelani Johnson
 source: https://punchdrink.com/recipes/gage-tollners-harvey-wallbanger/
+tags: Recipe
 ---
-
 ## Ingredients
 -    2 ounces [[gin]], preferably Plymouth
 -    3 ounces fresh-squeezed [[orange juice]]
