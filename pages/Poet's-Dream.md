@@ -1,7 +1,5 @@
 ---
 title: Poet's Dream
-author: undefined
-source: 
 tags: Recipe
 ---
 ## Description
