@@ -9,6 +9,6 @@ This simple drink proves that vermouth doesn't really need to be mixed with stro
 # Ingredients
 - 2 ounces [[sweet vermouth]]
 - 2 ounces [[dry vermouth]] 
-- twist of [[lemon peel]]
+- twist of [[[[lemon]] peel]]
 # Steps
 - Pour both vermouths into an old fashioned glass over ice. Stir, twist lemon peel over drink, and drop in.
