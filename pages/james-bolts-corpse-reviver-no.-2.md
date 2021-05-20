@@ -10,8 +10,8 @@ Third place in our recent blind tasting went to James Bolt of The Gin Joint in C
 - 1 ounce [[Lillet blanc]] 
 - 1 ounce [[Cointreau Noir]]
 - 1 ounce [[[[lemon]] juice]] 
-- 3 to 4 dashes absinthe, preferably Leopold Bros. Absinthe Verte
-- Garnish: expressed lemon peel
+- 3 to 4 dashes [[absinthe]], preferably Leopold Bros. Absinthe Verte
+- Garnish: [[expressed [[lemon]] peel]]
 ## Instructions
 - Combine all ingredients in a mixing tin and shake hard with ice for 5 to 7 seconds.
 - Double strain into a chilled coupe or cocktail glass.
