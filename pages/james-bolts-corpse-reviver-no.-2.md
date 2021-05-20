@@ -1,6 +1,7 @@
 ---
 title: James Bolt’s Corpse Reviver No. 2
-tags: Recipe, Unprocessed
+tags: Recipe, Corpse Reviver No. 2
+source: https://punchdrink.com/recipes/james-bolts-corpse-reviver-no-2/
 ---
 ## Description
 
