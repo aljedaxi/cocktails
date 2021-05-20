@@ -2,9 +2,8 @@
 title: Attention
 source: https://punchdrink.com/recipes/attention/
 author: Adapted from The Savoy Cocktail Book by Harry Craddock
-tags: recipe, unprocessed
+tags: recipe
 ---
-
 ## Ingredients
 - 2 ounces [[gin]] 
 - 1 ounce [[dry vermouth]] 
