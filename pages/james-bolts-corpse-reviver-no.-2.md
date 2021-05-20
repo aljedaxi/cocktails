@@ -7,7 +7,7 @@ tags: Recipe, Unprocessed
 ## Ingredients
 - 1 ounce [[gin]], preferably Big Gin
 - 1 ounce [[Lillet blanc]] 
-- 1 ounce Cointreau Noir
+- 1 ounce [[Cointreau Noir]]
 - 1 ounce lemon juice
 - 3 to 4 dashes absinthe, preferably Leopold Bros. Absinthe Verte
 - Garnish: expressed lemon peel
