@@ -5,7 +5,7 @@ tags: Recipe, Unprocessed
 ## Description
 
 ## Ingredients
-- 1 ounce gin, preferably Plymouth
+- 1 ounce [[gin]], preferably Plymouth
 - 3/4 ounce Lillet Blanc
 - 3/4 ounce Cointreau
 - 3/4 ounce lemon juice
