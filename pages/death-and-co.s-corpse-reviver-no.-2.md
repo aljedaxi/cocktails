@@ -1,5 +1,6 @@
 ---
 title: Death and Co.’s Corpse Reviver No. 2
+author: Death and Co.
 tags: Recipe
 source: https://punchdrink.com/recipes/death-co-s-corpse-reviver-no-2/
 ---
