@@ -1,7 +1,7 @@
 ---
 title: Amiraali
 source: https://punchdrink.com/recipes/amiraali/
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 ## Description
 
