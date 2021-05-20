@@ -13,7 +13,7 @@ The winning recipe from our blind tasting, Alicia Perry’s Corpse Reviver No. 2
 - 3/4 ounce [[[[lemon]] juice]] 
 - 1/4 ounce [[simple syrup]] 
 - [[pastis]], to rinse the glass
-- Garnish: lemon twist
+- Garnish: [[[[lemon]] twist]]
 ## Instructions
 - Rinse a coupe with pastis and set aside.
 - Combine all the remaining ingredients in a mixing tin and shake with ice.
