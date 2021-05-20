@@ -1,13 +1,15 @@
+#!/bin/env zx
+
 import S from 'sanctuary'
 const {
 	snd, ap, splitOn, pipe, reject, filter,
 	joinWith, trim, map,
 } = S
 
-const file = name => ({description, ingredients, instructions}) => (
+const file = ({name, tags}) => ({description, ingredients, instructions}) => (
 `---
 title: ${name}
-tags: Recipe,
+tags: ${tags.join(', ')}
 ---
 ## Description
 ${description ?? ''}
@@ -15,24 +17,6 @@ ${description ?? ''}
 ${ingredients ?? '-'}
 ## Instructions
 ${instructions ?? '-'}
-`
-)
-
-const punch = (
-`Ingredients
-
-Serving: 1
-
-    scant 1 ounce rhum agricole, preferably Duquesne Rhum Blanc
-    scant 1 ounce aquavit, preferably Gamle Ode Dill Aquavit
-    generous 1/2 ounce lime juice
-    1 teaspoon rancio sec, preferably Matifoc
-    1/2 ounce rich simple syrup (2:1, sugar:water)
-
-Directions
-
-    Combine all ingredients in a mixing tin and shake with ice.
-    Strain into a chilled rocks glass over a large ice cube.
 `
 )
 
@@ -57,13 +41,17 @@ const fromPunchKopipe = name => pipe([
 	splitOn('Directions'),
 	([ingredients, directions]) => ({ingredients, instructions: directions}),
 	ap ({ingredients: processPunchIngredients, instructions: processPunchInstructions}),
-	file (name),
+	file ({name, tags: ['Recipe', 'Unprocessed']}),
 ])
 
+const makeFileNameSafe = s => s.replace(/ /g, '-').replace(/’/g, '').toLowerCase()
 const writeFile = path => name => content =>
-	$`echo ${content} >> ${path}${name.replace(/ /g, '-').toLowerCase()}.md`
+	$`echo ${content} >> ${path}${makeFileNameSafe (name)}.md`
 
 const main = path => name => content =>
 	writeFile (path) (name) (fromPunchKopipe (name) (content))
 
-main ('./pages/') ('Amiraali') (punch)
+const punch = (`
+`)
+
+main ('../pages/') ('') (punch)
