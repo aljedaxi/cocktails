@@ -1,6 +1,6 @@
 ---
 title: Toby Cecchini's Gin and Tonic
-tags: Recipe, Unprocessed
+tags: Recipe, Gin and Tonic
 ---
 ## Description
 
