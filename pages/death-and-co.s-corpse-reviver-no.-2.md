@@ -4,7 +4,6 @@ tags: Recipe
 source: https://punchdrink.com/recipes/death-co-s-corpse-reviver-no-2/
 ---
 ## Description
-
 ## Ingredients
 - 3/4 ounce gin, preferably Beefeater
 - 3/4 ounce Cointreau
