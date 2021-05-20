@@ -6,7 +6,7 @@ tags: Recipe, unprocessed
 ## Description
 
 ## Ingredients
-- scant 1 ounce rhum agricole, preferably Duquesne Rhum Blanc
+- scant 1 ounce [[[[rhum]] agricole]], preferably Duquesne Rhum Blanc
 - scant 1 ounce aquavit, preferably Gamle Ode Dill Aquavit
 - generous 1/2 ounce lime juice
 - 1 teaspoon rancio sec, preferably Matifoc
