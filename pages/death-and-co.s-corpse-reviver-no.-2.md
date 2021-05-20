@@ -9,8 +9,8 @@ Placing second in our recent blind tasting was Death & Co.‘s house recipe for 
 - 3/4 ounce [[gin]], preferably Beefeater
 - 3/4 ounce [[Cointreau]]
 - 3/4 ounce [[Cocchi Americano]] 
-- 3/4 ounce lemon juice
-- 2 dashes absinthe
+- 3/4 ounce [[[[lemon]] juice]] 
+- 2 dashes [[absinthe]]
 ## Instructions
 - Combine all ingredients in a mixing tin and shake with ice.
 - Strain into a chilled coupe or cocktail glass.
