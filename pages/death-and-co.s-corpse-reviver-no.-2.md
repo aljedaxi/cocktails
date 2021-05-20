@@ -1,6 +1,6 @@
 ---
 title: Death and Co.’s Corpse Reviver No. 2
-tags: Recipe, Unprocessed
+tags: Recipe
 ---
 ## Description
 
