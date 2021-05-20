@@ -6,9 +6,9 @@ tags: Recipe, Unprocessed
 
 ## Ingredients
 - 1 ounce [[gin]], preferably Plymouth
-- 3/4 ounce Lillet Blanc
-- 3/4 ounce Cointreau
-- 3/4 ounce lemon juice
+- 3/4 ounce [[Lillet blanc]] 
+- 3/4 ounce [[Cointreau]] 
+- 3/4 ounce [[[[lemon]] juice]] 
 - 1/4 ounce simple syrup
 - pastis, to rinse the glass
 - Garnish: lemon twist
