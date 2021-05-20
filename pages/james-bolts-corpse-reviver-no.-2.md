@@ -1,6 +1,6 @@
 ---
 title: James Bolt’s Corpse Reviver No. 2
-tags: Recipe, Unprocessed
+tags: Recipe, Corpse Reviver No. 2
 ---
 ## Description
 
