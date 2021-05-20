@@ -2,7 +2,7 @@
 title: Attention
 source: https://punchdrink.com/recipes/attention/
 author: Adapted from The Savoy Cocktail Book by Harry Craddock
-tags: recipe
+tags: recipe, unprocessed
 ---
 
 ## Ingredients
