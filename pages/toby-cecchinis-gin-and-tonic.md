@@ -5,10 +5,10 @@ tags: Recipe, Gin and Tonic
 ## Description
 
 ## Ingredients
-- 3 ounces gin, preferably Tanqueray
-- 8 ounces chilled tonic water, preferably Schweppes
-- 1 lime
-- Garnish: lime strips
+- 3 ounces [[gin]], preferably Tanqueray
+- 8 ounces chilled [[tonic water]], preferably Schweppes
+- 1 [[lime]] 
+- Garnish: [[lime]] strips
 ## Instructions
 - Cut the lime across the equator and juice each half, setting aside the juice for another use.
 - Julienne each spent lime hull into thin strips.
