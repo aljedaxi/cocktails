@@ -1,6 +1,6 @@
 ---
 title: Alicia Perry’s Corpse Reviver No. 2
-source: Alicia Perry
+author: Alicia Perry
 tags: Recipe, Corpse Reviver No. 2
 source: https://punchdrink.com/recipes/alicia-perrys-corpse-reviver-no-2/
 ---
