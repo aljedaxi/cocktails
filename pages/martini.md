@@ -8,4 +8,3 @@ title: martini
 ### [try 1:2:3 sweet vermouth, earl gray w lemon, gin](https://themartinisocialist.com/2014/08/25/earl-grey-martini/)
 ### [try subtracting 25% of your vermouth, & replace it with something strong like benedictine](https://www.youtube.com/watch?v=bvuFw8S-V3o&t=202s)
 ### Try adding [[simple syrup]] to everythin [[source](https://punchdrink.com/articles/put-simple-syrup-in-your-martini-cocktail-recipe-seriously/)]
-##

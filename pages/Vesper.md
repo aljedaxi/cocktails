@@ -2,9 +2,8 @@
 title: Vesper
 author: Colleen Graham
 source: https://www.thespruceeats.com/vesper-martini-recipe-760130
-tags: Recipe
+tags: Recipe, Martini
 ---
-
 ## Description
 Get a taste of James Bond's famous Vesper [[martini]]. Straight out of Ian Fleming's novel, this gin and vodka martini is an easy cocktail to mix up.
 ## Ingredients
