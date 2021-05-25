@@ -1,6 +1,5 @@
 ---
 title: rye
-alias: rye whiskey
+alias: rye [[whiskey]] 
 ---
-
 ##
