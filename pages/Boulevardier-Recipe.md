@@ -7,7 +7,7 @@ tags: Recipe
 ## Description
 Essentially a Negroni with whiskey swapped in for gin, this classic is a beautiful cocktail in its own right.
 ## Ingredients
-- 1 ounce [[bourbon]] or [[rye]] [[whiskey]] 
+- 1 ounce [[bourbon]] or [[rye [[whiskey]]]]
 - 1 ounce [[Campari]] 
 - 1 ounce [[sweet vermouth]] 
 - Garnish: [[[[orange]] twist]] or [[cherry]]
