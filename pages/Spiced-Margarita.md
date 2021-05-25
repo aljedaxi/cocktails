@@ -7,12 +7,12 @@ tags: Recipe, unprocessed
 ## Description
 This Spiced Margarita gets its fiery kick from muddled jalapeño and its sweetness from oft-misunderstood amaretto.
 ## Ingredients
-- 1 wedge lime
-- 3 wheels jalapeño
-- 2 ounces blanco tequila
-- 3/4 ounce amaretto
-- 1 ounce lime juice
-- Garnish: salt rim
+- 1 wedge [[lime]] 
+- 3 wheels [[jalapeño]]
+- 2 ounces [[Blanco [[tequila]]]] 
+- 3/4 ounce [[Amaretto]] 
+- 1 ounce [[[[lime]] juice]] 
+- Garnish: [[salt]] rim
 - Garnish: lime wheel
 ## Steps
 - Rub half of the outside of a rocks glass with a lime wedge, dip the edge in salt to coat and set aside.
