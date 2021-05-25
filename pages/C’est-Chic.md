@@ -10,9 +10,9 @@ Inspired by agua fresca, this Campari-based cocktail created by a bartender at T
 - 1 sprinkle of salt
 - 2 dashes [[cucumber bitters]] (such as The Bitter Truth)
 - 1/2 ounce [[[[lime]] juice]] , freshly squeezed
-- 2 ounces hibiscus-mint tea*
-- 1/2 ounce Campari
-- 2 ounces Alessio bianco vermouth
+- 2 ounces [[hibiscus-mint tea]]*
+- 1/2 ounce [[Campari]] 
+- 2 ounces [[Alessio bianco [[vermouth]]]]
 - Garnish: mint sprig
 ## Steps
 - Pour all ingredients into a rocks glass, adding the Campari and vermouth last.
