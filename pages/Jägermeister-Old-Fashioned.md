@@ -2,7 +2,7 @@
 title: Jägermeister Old Fashioned
 author: Kelly Magyarics
 source: https://www.liquor.com/jagermeister-old-fashioned-cocktail-recipe-5080940
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 ## Description
 Jagermeister and rye whiskey make a perfect match in this Old Fashioned riff from Willy Shine, the “brandmeister” for the German herbal liqueur.
