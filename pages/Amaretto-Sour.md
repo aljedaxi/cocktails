@@ -7,10 +7,10 @@ tags: Recipe, unprocessed
 ## Description
 This Amaretto Sour cocktail recipe highlights the balance of flavors that can be achieved with Amaretto, bourbon and fresh lemon juice.
 ## Ingredients
-- 1 1/2 ounces amaretto liqueur
-- 3/4 ounce cask-proof bourbon
-- 1 ounce lemon juice, freshly squeezed
-- 1 teaspoon rich simple syrup
+- 1 1/2 ounces [[Amaretto]] liqueur
+- 3/4 ounce [[cask-proof [[bourbon]]]]
+- 1 ounce [[[[lemon]] juice]] , freshly squeezed
+- 1 teaspoon [[rich [[simple syrup]]]] 
 - 1/2 ounce egg white
 - Garnish: lemon twist
 - Garnish: 2 brandied cherries
