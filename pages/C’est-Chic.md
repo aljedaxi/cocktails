@@ -8,8 +8,8 @@ tags: Recipe, unprocessed
 Inspired by agua fresca, this Campari-based cocktail created by a bartender at The Elysian Bar in New Orleans is shockingly refreshing.
 ## Ingredients
 - 1 sprinkle of salt
-- 2 dashes cucumber bitters (such as The Bitter Truth)
-- 1/2 ounce lime juice, freshly squeezed
+- 2 dashes [[cucumber bitters]] (such as The Bitter Truth)
+- 1/2 ounce [[[[lime]] juice]] , freshly squeezed
 - 2 ounces hibiscus-mint tea*
 - 1/2 ounce Campari
 - 2 ounces Alessio bianco vermouth
