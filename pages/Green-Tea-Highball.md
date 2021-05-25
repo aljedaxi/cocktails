@@ -7,7 +7,7 @@ tags: Recipe
 ## Description
 Two of Japan’s most famous beverages get cozy in this uplifting cocktail. Learn how to make it today at Liquor.com.
 ## Ingredients
-- 2 ounces [[Japanese [[whisky]]]]
+- 2 ounces [[Japanese [[whiskey]]]]
 - 2 ounces brewed [[green tea]], cooled
 - [[Soda water]], chilled, to top
 - Garnish: [[maple leaf candy]]
