@@ -2,7 +2,7 @@
 title: Spiced Margarita
 author: Liquor.com
 source: https://www.liquor.com/recipes/spiced-margarita/
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 ## Description
 This Spiced Margarita gets its fiery kick from muddled jalapeño and its sweetness from oft-misunderstood amaretto.
