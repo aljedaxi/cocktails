@@ -11,7 +11,7 @@ An Academy Award-worthy cocktail, this red carpet cocktail recipe mixes a smooth
 - 1 ounce [[Campari]] 
 - 1 ounce [[pomegranate liqueur]]
 - 1/2 ounce [[simple syrup]] 
-- Garnish: [[lemon slice]]
+- Garnish: [[[[lemon]] slice]]
 ## Steps
 - Gather the ingredients.
 - In a cocktail shaker , pour the vodka, Campari, pomegranate liqueur, and simple syrup.
