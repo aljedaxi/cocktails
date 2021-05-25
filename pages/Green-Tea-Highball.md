@@ -2,7 +2,7 @@
 title: Green Tea Highball
 author: Liquor.com
 source: https://www.liquor.com/recipes/green-tea-highball/
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 ## Description
 Two of Japan’s most famous beverages get cozy in this uplifting cocktail. Learn how to make it today at Liquor.com.
