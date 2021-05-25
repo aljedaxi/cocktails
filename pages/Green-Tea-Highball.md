@@ -10,7 +10,7 @@ Two of Japan’s most famous beverages get cozy in this uplifting cocktail. Lear
 - 2 ounces [[Japanese [[whisky]]]]
 - 2 ounces brewed [[green tea]], cooled
 - [[Soda water]], chilled, to top
-- Garnish: maple leaf candy
+- Garnish: [[maple leaf candy]]
 ## Steps
 - Add the whisky and tea to a Collins glass with an ice spear and stir to combine.
 - Top with the soda water.
