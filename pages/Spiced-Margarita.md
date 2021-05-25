@@ -13,7 +13,7 @@ This Spiced Margarita gets its fiery kick from muddled jalapeño and its sweetne
 - 3/4 ounce [[Amaretto]] 
 - 1 ounce [[[[lime]] juice]] 
 - Garnish: [[salt]] rim
-- Garnish: lime wheel
+- Garnish: [[[[lime]] wheel]]
 ## Steps
 - Rub half of the outside of a rocks glass with a lime wedge, dip the edge in salt to coat and set aside.
 - Add the jalapeño wheels into a shaker and gently muddle.
