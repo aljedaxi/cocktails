@@ -7,8 +7,8 @@ tags: Recipe, unprocessed
 ## Description
 Jagermeister and rye whiskey make a perfect match in this Old Fashioned riff from Willy Shine, the “brandmeister” for the German herbal liqueur.
 ## Ingredients
-- 1 ounce Jägermeister
-- 1 ounce rye whiskey
+- 1 ounce [[Jägermeister]]
+- 1 ounce [[rye [[whiskey]]]] 
 - 1 barspoon maple syrup
 - 1 dash Dale DeGroff’s pimento bitters
 - Garnish: orange twist
