@@ -2,7 +2,7 @@
 title: C’est Chic
 author: Kelly Magyarics
 source: https://www.liquor.com/cest-chic-cocktail-recipe-4797459
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 ## Description
 Inspired by agua fresca, this Campari-based cocktail created by a bartender at The Elysian Bar in New Orleans is shockingly refreshing.
@@ -13,7 +13,7 @@ Inspired by agua fresca, this Campari-based cocktail created by a bartender at T
 - 2 ounces [[hibiscus-mint tea]]*
 - 1/2 ounce [[Campari]] 
 - 2 ounces [[Alessio bianco [[vermouth]]]]
-- Garnish: mint sprig
+- Garnish: [[mint]] sprig
 ## Steps
 - Pour all ingredients into a rocks glass, adding the Campari and vermouth last.
 - Add ice and stir.
