@@ -1,3 +1,3 @@
 -
   > Though it’s thought of more often as a gin botanical, Thorn believes juniper works particularly well with the spicy character of Knob Creek® Rye, especially its baked apple and anise notes. Thorn advocates for the Sazerac as the perfect drink for at-home bartenders to get creative and choose their own spices to add; she suggests cardamom, caraway or star anise
-  [source]()
+  [source](https://punchdrink.com/recipes/spiced-sazerac/)
