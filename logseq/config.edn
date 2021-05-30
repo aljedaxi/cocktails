@@ -72,5 +72,4 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
- :date-formatter "MMM do, yyyy"
- :markdown/version 2}
+ :date-formatter "MMM do, yyyy"}
