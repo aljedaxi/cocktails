@@ -2,4 +2,4 @@
 title: Lillet blanc
 ---
 
-## [[Cocchi Americano]]
+- [[Cocchi Americano]]

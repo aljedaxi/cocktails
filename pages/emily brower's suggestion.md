@@ -2,7 +2,7 @@
 title: emily brower's suggestion
 ---
 
-## Ingredients
+- Ingredients
 - half [[gin]] 
 - half [[sake]] 
 - little [[[[lemon]] juice]]
