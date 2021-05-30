@@ -2,6 +2,6 @@
 title: make for astrid
 ---
 
-## [[Maple New York Sour]]
-## [[martini]]
-## [[Macaulay Culkin]]
+- [[Maple New York Sour]]
+- [[martini]]
+- [[Macaulay Culkin]]

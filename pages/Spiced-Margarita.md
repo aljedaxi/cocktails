@@ -4,9 +4,9 @@ author: Liquor.com
 source: https://www.liquor.com/recipes/spiced-margarita/
 tags: Recipe, unprocessed
 ---
-## Description
+- Description
 This Spiced Margarita gets its fiery kick from muddled jalapeño and its sweetness from oft-misunderstood amaretto.
-## Ingredients
+- Ingredients
 - 1 wedge lime
 - 3 wheels jalapeño
 - 2 ounces blanco tequila
@@ -14,7 +14,7 @@ This Spiced Margarita gets its fiery kick from muddled jalapeño and its sweetne
 - 1 ounce lime juice
 - Garnish: salt rim
 - Garnish: lime wheel
-## Steps
+- Steps
 - Rub half of the outside of a rocks glass with a lime wedge, dip the edge in salt to coat and set aside.
 - Add the jalapeño wheels into a shaker and gently muddle.
 - Add the tequila, amaretto, lime juice and ice and shake until well-chilled.

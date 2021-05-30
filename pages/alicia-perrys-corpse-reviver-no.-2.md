@@ -2,9 +2,9 @@
 title: Alicia Perry’s Corpse Reviver No. 2
 tags: Recipe, Unprocessed
 ---
-## Description
+- Description
 
-## Ingredients
+- Ingredients
 - 1 ounce gin, preferably Plymouth
 - 3/4 ounce Lillet Blanc
 - 3/4 ounce Cointreau
@@ -12,7 +12,7 @@ tags: Recipe, Unprocessed
 - 1/4 ounce simple syrup
 - pastis, to rinse the glass
 - Garnish: lemon twist
-## Instructions
+- Instructions
 - Rinse a coupe with pastis and set aside.
 - Combine all the remaining ingredients in a mixing tin and shake with ice.
 - Strain into the prepared coupe.

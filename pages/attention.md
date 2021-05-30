@@ -5,7 +5,7 @@ author: Adapted from The Savoy Cocktail Book by Harry Craddock
 tags: recipe, unprocessed
 ---
 
-## Ingredients
+- Ingredients
 - 2 ounces gin
 - 1 ounce dry vermouth
 - 1 bar spoon crème de violette
@@ -13,7 +13,7 @@ tags: recipe, unprocessed
 - 1/4 ounce absinthe
 - Garnish: lemon peel
 
-## Instructions
+- Instructions
 - Add absinthe to a chilled cocktail or coupe glass. Swirl to rinse and discard.
 - Add remaining ingredients to a mixing glass.
 - Add ice and stir until chilled.

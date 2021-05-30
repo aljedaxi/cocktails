@@ -2,14 +2,14 @@
 title: Toby Cecchini's Gin and Tonic
 tags: Recipe, Unprocessed
 ---
-## Description
+- Description
 
-## Ingredients
+- Ingredients
 - 3 ounces gin, preferably Tanqueray
 - 8 ounces chilled tonic water, preferably Schweppes
 - 1 lime
 - Garnish: lime strips
-## Instructions
+- Instructions
 - Cut the lime across the equator and juice each half, setting aside the juice for another use.
 - Julienne each spent lime hull into thin strips.
 - Combine the lime strips and gin in a mixing tin and muddle for 20 to 30 seconds.

@@ -4,15 +4,15 @@ author: Colleen Graham
 source: https://www.thespruceeats.com/red-carpet-cocktail-recipe-761151
 tags: Recipe
 ---
-## Description
+- Description
 An Academy Award-worthy cocktail, this red carpet cocktail recipe mixes a smooth vodka, Campari, and pomegranate. It's ideal for your Oscar viewing party.
-## Ingredients
+- Ingredients
 - 1 1/2 ounces [[vodka]]
 - 1 ounce [[Campari]] 
 - 1 ounce [[pomegranate liqueur]]
 - 1/2 ounce [[simple syrup]] 
 - Garnish: [[lemon slice]]
-## Steps
+- Steps
 - Gather the ingredients.
 - In a cocktail shaker , pour the vodka, Campari, pomegranate liqueur, and simple syrup.
 - Fill with ice and shake vigorously .
