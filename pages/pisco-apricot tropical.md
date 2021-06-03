@@ -1,5 +1,5 @@
 - description
-	- #floral #summery #aromatic
+	- #floral #summery #aromatic #refreshing #tart
 - Ingredients
 	- few dashes [[Angostura bitters]]
 	- .75 oz [[[[lime]] juice]]
