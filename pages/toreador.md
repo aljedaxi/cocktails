@@ -5,7 +5,7 @@ author: Jeff Solomon
 ---
 
 - Description:
-  A perfect thing to order if you love the simplicity of a margarita but want to switch things up a bit
+  A perfect thing to order if you love the simplicity of a [[margarita]] but want to switch things up a bit
 - Ingredients:
 	- Few Dashes [[Angostura bitters]]
 	- .75 oz [[[[lime]] juice]]
