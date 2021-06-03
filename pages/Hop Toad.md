@@ -8,4 +8,5 @@ author: Jeff Solomon
 	- .75 oz lime
 	- 1 oz [[apricot liqueur]]
 	- 1.5 oz [[jamaican [[rum]]]]
-	-
+- Instructions:
+	- [[shake]]
