@@ -1,5 +1,5 @@
 ---
-tags: Recipe
+tags: Recipe, Smoky, Woodsy, Herbal, Fruity, Bitter, Mature
 source: https://www.youtube.com/watch?v=pg7UjUES36M
 author: Jeff Solomon
 ---
