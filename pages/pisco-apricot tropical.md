@@ -1,4 +1,6 @@
 - Ingredients
 	- few dashes [[Angostura bitters]]
 	- .75 oz [[[[lime]] juice]]
-	- 1 oz
+	- 1 oz [[apricot liqueur]]
+	- 1.5 oz [[pisco]]
+-
