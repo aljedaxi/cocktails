@@ -5,4 +5,6 @@ author: Jeff Solomon
 ---
 
 - Ingredients:
+	- .75 oz lime
+	- 1 oz [[apricot liqueur]]
 	-
