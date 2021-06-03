@@ -10,4 +10,4 @@ author: Jeff Solomon
 	- 1 oz [[apricot liqueur]]
 	- 1.5 oz [[reposado [[tequila]]]]
 - Instructions:
-	-
+	- [[shake]]
