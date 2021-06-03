@@ -1,3 +1,4 @@
 - Ingredients
 	- few dashes [[Angostura bitters]]
-	- .75 oz lime
+	- .75 oz [[[[lime]] juice]]
+	- 1 oz
