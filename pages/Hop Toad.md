@@ -10,3 +10,4 @@ author: Jeff Solomon
 	- 1.5 oz [[jamaican [[rum]]]]
 - Instructions:
 	- [[shake]]
+	- Strain into a chilled [[coupe]]
