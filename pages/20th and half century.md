@@ -5,6 +5,6 @@
 	- 20ml [[crème de cacao]]
 	- 25ml Succo di Limone
 - Preparazione:
-	- Far cadere 2-3 gocce di Assenzio nella coppa di servizio e spalmarle per tutta la superfce. A picere scegliee se rimuovere l’assenzio in eccesso dal bicchiere o lasciarlo all’interno.
+	- Rinse with [[absinthe]]
 	- Successivamente versare nella coppetta permeata di assenzio il cocktail, precedentemente miscelato con ghiaccio.
 	- Guarnire con una sottobicchiere effetto ” buco nero” e scorza di limone.
