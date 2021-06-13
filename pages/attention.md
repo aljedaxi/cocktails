@@ -7,7 +7,7 @@ tags: recipe
 
 - Ingredients
 - 2 ounces [[gin]]
-- 1 ounce [[dry vermouth]]
+- 1 ounce [[dry [[vermouth]]]]
 - 1 bar spoon [[Crème de Violette]]
 - 2 dashes [[orange [[bitters]]]]
 - 1/4 ounce [[absinthe]]

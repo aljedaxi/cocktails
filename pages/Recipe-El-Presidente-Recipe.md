@@ -4,11 +4,12 @@ title: El Presidente Recipe
 author: Paul Clarke
 source: https://www.seriouseats.com/el-presidente
 ---
+
 # El Presidente Recipe
 A classic rum cocktail that hasn't gotten the attention it deserves.
 # Ingredients
 - 1 1/2 ounces [[white [[rum]]]]
-- 3/4 ounce [[dry vermouth]] 
+- 3/4 ounce [[dry [[vermouth]]]]
 - 3/4 ounce [[orange curacao]]
 - 1 dash [[grenadine]]
 - Garnish: [[[[orange]] twist]]
