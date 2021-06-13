@@ -1,7 +1,7 @@
 ---
 source: https://www.firstordergin.com/gin-and-lavender-aperitif/
 tags: recipe
-timing: 
+timing: Apéritif
 ---
 
 - Ingredients
