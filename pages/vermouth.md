@@ -1,3 +1,3 @@
 ---
-tags: category
+tags: category, perishable
 ---
