@@ -4,7 +4,7 @@
 	- 25ml El Jimador [[Blanco [[tequila]]]]
 	- 20ml [[crème de cacao]]
 	- 25ml [[[[lemon]] juice]]
-	- Garnish:
+	- Garnish: [[[[lemon]] twist]]
 - Preparazione:
 	- Rinse with [[absinthe]]
 	- shake; strain into a chilled coupe
