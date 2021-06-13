@@ -3,7 +3,7 @@
 	- 25ml Moonshot Gin
 	- 25ml El Jimador [[Blanco [[tequila]]]]
 	- 20ml [[crème de cacao]]
-	- 25ml [[ [[[[lemon]] juice]] ]]
+	- 25ml [[[[lemon]] juice]]
 - Preparazione:
 	- Rinse with [[absinthe]]
 	- Successivamente versare nella coppetta permeata di assenzio il cocktail, precedentemente miscelato con ghiaccio.
