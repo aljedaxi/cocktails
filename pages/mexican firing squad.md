@@ -1,10 +1,10 @@
--
-  ---
-  title: mexican firing squad
-  source: https://punchdrink.com/recipes/mexican-firing-squad/
-  author: Adapted from St. Mazie
-  
-  ---
+---
+source: https://punchdrink.com/recipes/mexican-firing-squad/
+author: Adapted from St. Mazie
+glass: rocks,
+method: shaken
+---
+
 - Ingredients
 	- 2 ounces [[tequila]]
 	- 3/4 ounce [[[[lime]] juice]]
