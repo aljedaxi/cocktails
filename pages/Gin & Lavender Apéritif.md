@@ -1,7 +1,7 @@
 - Ingredients
 	- 1.5 Oz. [[gin]]
 	- .75 Oz. [[Cocchi Americano]]
-	- .75 Oz. Lemon juice
+	- .75 Oz. [[[[lemon]] juice]]
 	- .75 Oz. Lavender syrup
 	- [[Lavender]] sprigs to garnish
 - Instructions
