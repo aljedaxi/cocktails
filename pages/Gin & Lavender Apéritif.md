@@ -10,7 +10,7 @@ timing: Apéritif
 	- 1.5 Oz. [[gin]]
 	- .75 Oz. [[Cocchi Americano]]
 	- .75 Oz. [[[[lemon]] juice]]
-	- .75 Oz. [[[[Lavender]] syrup]]
+	- .75 Oz. [[[[lavender]] [[syrup]]]]
 	- [[Lavender]] sprigs to garnish
 - Instructions
 	- Combine all of your ingredients in a cocktail shaker.
