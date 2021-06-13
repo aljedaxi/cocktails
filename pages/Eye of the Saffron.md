@@ -7,6 +7,7 @@ tags: recipe
 	- 1 1 / 2oz [[Cocchi Americano]] infused with [[saffron]]
 	- 1 1 / 2oz [[Campari]] bitter
 	- [[seltzer]]
+	- [[saffron]]
 - Instructions:
 	- Stir
 	- Strain into a chilled coupe
