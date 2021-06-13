@@ -10,4 +10,5 @@ tags: recipe
 	- [[saffron]] [[[[ice]] ball]]
 - Instructions:
 	- Stir
-	- Strain into a chilled coupe
+	- Strain into a chilled coupe, with the ice ball
+	- top with seltzer
