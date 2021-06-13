@@ -1,3 +1,7 @@
+---
+Tags: Recipe, 
+---
+
 - Ricetta:
 	- 15ml [[Cocchi Americano]]
 	- 25ml Moonshot Gin
