@@ -1,7 +1,7 @@
 - Ricetta:
 	- 15ml [[Cocchi Americano]]
 	- 25ml Moonshot Gin
-	- 25ml El Jimador Tequila blanco
+	- 25ml El Jimador [[Blanco [[tequila]]]]
 	- 20ml Crema di cacao
 	- 25ml Succo di Limone
 - Preparazione:
