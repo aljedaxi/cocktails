@@ -7,7 +7,7 @@ source: https://www.firstordergin.com/gin-and-lavender-aperitif/
 	- 1 Tbsp. Fresh [[Lavender]] blossoms
 	- 1 Cup [[Sugar]]
 	- 1 Cup Water
-	- 2-5 Whole Blueberries
+	- 2-5 Whole [[Blueberries]]
 - Instructions
 	- Start by "plucking" the tiny blossoms from fresh lavender flowers. Collect 1 tablespoon's worth.
 	- Combine your blossoms, water, and sugar into a saucepan or small pot.
