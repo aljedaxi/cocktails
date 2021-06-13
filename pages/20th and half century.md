@@ -4,7 +4,7 @@
 	- 25ml El Jimador [[Blanco [[tequila]]]]
 	- 20ml [[crème de cacao]]
 	- 25ml [[[[lemon]] juice]]
+	- Garnish:
 - Preparazione:
 	- Rinse with [[absinthe]]
-	- Successivamente versare nella coppetta permeata di assenzio il cocktail, precedentemente miscelato con ghiaccio.
-	- Guarnire con una sottobicchiere effetto ” buco nero” e scorza di limone.
+	- shake; strain into a chilled coupe
