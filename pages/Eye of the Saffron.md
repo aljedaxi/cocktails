@@ -11,4 +11,3 @@ tags: recipe
 - Instructions:
 	- Stir
 	- Strain into a chilled coupe
-	-
