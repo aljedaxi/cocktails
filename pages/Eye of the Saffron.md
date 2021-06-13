@@ -2,4 +2,5 @@
 	- 1 1 / 2oz [[Cocchi Americano]] infused with [[saffron]]
 	- 1 1 / 2oz [[Campari]] bitter
 - Instructions:
-	- Mix (in a mixing glass)
+	- Stir
+	-
