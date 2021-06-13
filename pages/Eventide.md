@@ -1,7 +1,7 @@
 ---
 source: https://www.firstordergin.com/eventide/
 method: stirred
-glass: martini
+glass: cocktail
 ---
 
 - Ingredients
