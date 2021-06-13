@@ -2,7 +2,7 @@
 	- 15ml [[Cocchi Americano]]
 	- 25ml Moonshot Gin
 	- 25ml El Jimador [[Blanco [[tequila]]]]
-	- 20ml Crema di cacao
+	- 20ml [Crem di cacao]
 	- 25ml Succo di Limone
 - Preparazione:
 	- Far cadere 2-3 gocce di Assenzio nella coppa di servizio e spalmarle per tutta la superfce. A picere scegliee se rimuovere l’assenzio in eccesso dal bicchiere o lasciarlo all’interno.
