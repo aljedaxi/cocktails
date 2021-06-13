@@ -1,3 +1,8 @@
+---
+source: https://www.firstordergin.com/gin-and-lavender-aperitif/
+tags: recipe
+---
+
 - Ingredients
 	- 1.5 Oz. [[gin]]
 	- .75 Oz. [[Cocchi Americano]]
