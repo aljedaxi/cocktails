@@ -1,10 +1,11 @@
 - Ricetta:
-- 15ml Americano Cocchi
-- 25ml Moonshot Gin
-- 25ml El Jimador Tequila blanco
-- 20ml Crema di cacao
-- 25ml Succo di Limone
-  Preparazione:
+	- 15ml Americano Cocchi
+	- 25ml Moonshot Gin
+	- 25ml El Jimador Tequila blanco
+	- 20ml Crema di cacao
+	- 25ml Succo di Limone
+	-
+	- Preparazione:
 - Far cadere 2-3 gocce di Assenzio nella coppa di servizio e spalmarle per tutta la superfce. A picere scegliee se rimuovere l’assenzio in eccesso dal bicchiere o lasciarlo all’interno.
 - Successivamente versare nella coppetta permeata di assenzio il cocktail, precedentemente miscelato con ghiaccio.
 - Guarnire con una sottobicchiere effetto ” buco nero” e scorza di limone.
