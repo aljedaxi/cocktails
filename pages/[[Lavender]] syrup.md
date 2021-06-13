@@ -4,8 +4,8 @@ source: https://www.firstordergin.com/gin-and-lavender-aperitif/
 ---
 
 - Ingredients
-	- 1 Tbsp. Fresh lavender blossoms
-	- 1 Cup Sugar
+	- 1 Tbsp. Fresh [[Lavender]] blossoms
+	- 1 Cup [[Sugar]]
 	- 1 Cup Water
 	- 2-5 Whole Blueberries
 - Instructions
