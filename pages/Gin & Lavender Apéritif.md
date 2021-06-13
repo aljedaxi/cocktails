@@ -16,5 +16,5 @@ timing: Apéritif
 	- Combine all of your ingredients in a cocktail shaker.
 	- Add ice!
 	- [[shake]] vigorously.
-	- Strain into a coupe glass.
+	- Strain into a [[coupe]] glass.
 	- Garnish with fresh or dried lavender sprigs.
