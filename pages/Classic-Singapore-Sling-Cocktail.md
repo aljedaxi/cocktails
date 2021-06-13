@@ -17,9 +17,9 @@ tags: Recipe
 	- [[[[lemon]] slice]] , garnish
 	- [[[[maraschino]] cherry]], garnish
 - Steps
-- Gather the ingredients.
-- In a cocktail shaker filled with ice cubes, pour the gin, Bénédictine, cherry liqueur, lime juice, and simple syrup.
-- Shake well .
-- Strain into a highball glass over fresh ice.
-- Top with club soda.
-- Garnish with a lemon slice and cherry. Serve and enjoy.
+	- Gather the ingredients.
+	- In a cocktail shaker filled with ice cubes, pour the gin, Bénédictine, cherry liqueur, lime juice, and simple syrup.
+	- Shake well .
+	- Strain into a highball glass over fresh ice.
+	- Top with club soda.
+	- Garnish with a lemon slice and cherry. Serve and enjoy.
