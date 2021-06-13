@@ -5,9 +5,9 @@ source: https://www.seriouseats.com/the-brooklyn-cocktail-rye-maraschino-vermout
 tags: recipe
 ---
 
-# The Brooklyn Cocktail Recipe
-A spirited riff on the better-known [[Manhattan]].
-# Ingredients
+- The Brooklyn Cocktail Recipe
+  A spirited riff on the better-known [[Manhattan]].
+- Ingredients
 - 2 ounces [[rye]] or other [[whiskey]]
 - 1 ounce [[dry vermouth]]
 - 1/4 ounce [[maraschino liqueur]]
