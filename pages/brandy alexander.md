@@ -1,9 +1,9 @@
--
-  ---
-  
-  tags: recipe
-  method: blended
-  ---
+---
+source: https://www.good-saint.com/recipes/vegan-dairy-free-brandy-alexander
+tags: recipe
+method: blended
+---
+
 - Description
 	- [[vegan]]
 - Ingredients
