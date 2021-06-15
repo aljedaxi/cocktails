@@ -3,11 +3,12 @@ author: Cookie and Kate
 source: https://cookieandkate.com/best-manhattan-cocktail-recipe
 tags: Recipe, unprocessed
 ---
+
 - Description
-Learn how to make a classic Manhattan cocktail with this simple recipe! Quality ingredients and proper technique are all you need to make the best Manhattan you've ever had. Recipe yields 1 cocktail; multiply the ingredients to make more at once (just use a suitably-sized mixing glass).
+  Learn how to make a classic Manhattan cocktail with this simple recipe! Quality ingredients and proper technique are all you need to make the best Manhattan you've ever had. Recipe yields 1 cocktail; multiply the ingredients to make more at once (just use a suitably-sized mixing glass).
 - Ingredients
 	- Ice, for stirring
-	- 2 ounces rye or bourbon (I like Bulleit Rye)
+	- 2 ounces [[rye]] or [[bourbon]] (I like Bulleit Rye)
 	- 1 ounce sweet vermouth (I like Dolin or Carpano Antica)
 	- 2 dashes Angostura bitters
 	- 1 Luxardo cherry or other cocktail cherry, for garnish
