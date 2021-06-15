@@ -75,7 +75,7 @@ const getContent = pipe([
 
 export const main = path => pipe([
 	getContent,
-	map (map (markDown ({path, tags: ['Recipe']}))),
+	map (map (markDown ({path, tags: ['Recipe', 'unprocessed']}))),
 	chain (either (reject) (pair (writeFile)))
 ])
 
