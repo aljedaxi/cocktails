@@ -1,7 +1,9 @@
----
-tags: recipe
----
-
+-
+  ---
+  
+  tags: recipe
+  method: blended
+  ---
 - Description
 	- [[vegan]]
 - Ingredients
