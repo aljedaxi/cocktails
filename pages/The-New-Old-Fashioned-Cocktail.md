@@ -1,7 +1,9 @@
 ---
 author: Cookie and Kate
 source: https://cookieandkate.com/maple-new-york-sour/
-tags: Recipe, unprocessed
+tags: Recipe
+method: stirred
+glass: rocks
 ---
 
 - Description
