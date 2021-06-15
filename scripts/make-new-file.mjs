@@ -11,29 +11,30 @@ const file = ({name, tags}) => ({description, ingredients, instructions}) => (
 title: ${name}
 tags: ${tags.join(', ')}
 ---
-## Description
+- Description
 ${description ?? ''}
-## Ingredients
-${ingredients ?? '-'}
-## Instructions
-${instructions ?? '-'}
+- Ingredients
+${ingredients ?? '  -'}
+- Instructions
+${instructions ?? '  -'}
 `
 )
 
+const itemize = s => `  - ${s}`
 const trace = s => {console.log(s); return s;};
 const processPunchIngredients = pipe([
 	splitOn ('\n'),
 	reject (s => s.includes ('Ingredients') || s.includes ('Serving')),
 	filter (Boolean),
 	map (trim),
-	map (s => `- ${s}`),
+	map (itemize),
 	joinWith ('\n'),
 ])
 const processPunchInstructions = pipe([
 	splitOn ('\n'),
 	filter (Boolean),
 	map (trim),
-	map (s => `- ${s}`),
+	map (itemize),
 	joinWith ('\n'),
 ])
 
