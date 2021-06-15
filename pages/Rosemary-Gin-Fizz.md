@@ -11,7 +11,7 @@ tags: Recipe
 	- 1 small [[lemon]], juiced
 	- 1/2 teaspoon [[honey]]
 	- 1 1/2 ounces [[gin]]
-	- 3 ounces club soda
+	- 3 ounces [[Club soda]]
 - Steps
 	- In a small drinking glass, muddle the fresh rosemary, lemon juice and honey.
 	- Fill the glass with ice, then pour in the gin and top with club soda.
