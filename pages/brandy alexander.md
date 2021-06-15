@@ -11,6 +11,6 @@ method: blended
 	- 10 ounces [[crème de cacao]]
 	- 5 ounces [[brandy]]
 	- 1-2 cups ice
-	- freshly grated nutmeg, for garnish
+	- freshly grated [[nutmeg]], for garnish
 - Instructions
 	- blend
