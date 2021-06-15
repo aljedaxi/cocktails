@@ -12,7 +12,7 @@ glass: rocks
 	- 1 1/2 ounces (3 tablespoons) Bulleit [[bourbon]] or your bourbon of choice
 	- 1 ounce (2 tablespoons) fresh [[[[lemon]] juice]]
 	- 2 to 4 teaspoons [[maple syrup]], to taste (I like 3 teaspoons, which is the equivalent of 1/2 ounce or 1 tablespoon)
-	- Pinch of ground cinnamon, optional
+	- Pinch of ground [[cinnamon]], optional
 - Steps
 	- Fill a cocktail shaker or mason jar about two-thirds full with ice. Pour in the bourbon, lemon juice, maple syrup and a pinch of ground cinnamon. Securely fasten the lid and shake well.
 	- Pour fresh ice into your cocktail glass and strain the cold whiskey sour mixture into the glass. Enjoy!
