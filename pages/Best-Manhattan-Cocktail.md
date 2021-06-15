@@ -9,7 +9,7 @@ tags: Recipe, unprocessed
 - Ingredients
 	- Ice, for stirring
 	- 2 ounces [[rye]] or [[bourbon]] (I like Bulleit Rye)
-	- 1 ounce sweet vermouth (I like Dolin or Carpano Antica)
+	- 1 ounce [[sweet [[vermouth]]]] (I like Dolin or Carpano Antica)
 	- 2 dashes Angostura bitters
 	- 1 Luxardo cherry or other cocktail cherry, for garnish
 - Steps
