@@ -2,6 +2,8 @@
 author: Cookie and Kate
 source: https://cookieandkate.com/cucumber-elderflower-gimlet/
 tags: Recipe
+method: shaken
+glass: cocktail
 ---
 
 - Description
