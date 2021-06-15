@@ -1,10 +1,13 @@
 ---
 author: Cookie and Kate
 source: https://cookieandkate.com/cinnamon-maple-whiskey-sour-recipe/
-tags: Recipe, unprocessed
+tags: Recipe
+method: shaken
+glass: rocks
 ---
+
 - Description
-Meet the best whiskey sour recipe—it's full of bourbon and fresh lemon, sweetened with maple syrup and includes a hint of cinnamon (spice is optional). Feel free to multiply the amounts given below by up to four, if you'd like to make a bigger batch in your cocktail shaker all at once.
+  Meet the best whiskey sour recipe—it's full of bourbon and fresh lemon, sweetened with maple syrup and includes a hint of cinnamon (spice is optional). Feel free to multiply the amounts given below by up to four, if you'd like to make a bigger batch in your cocktail shaker all at once.
 - Ingredients
 	- 1 1/2 ounces (3 tablespoons) Bulleit bourbon or your bourbon of choice
 	- 1 ounce (2 tablespoons) fresh lemon juice
