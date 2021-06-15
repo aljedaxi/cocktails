@@ -1,7 +1,9 @@
 ---
 author: Cookie and Kate
 source: https://cookieandkate.com/best-manhattan-cocktail-recipe
-tags: Recipe, unprocessed
+tags: Recipe
+method: stirred
+glass: coupe, cocktail
 ---
 
 - Description
