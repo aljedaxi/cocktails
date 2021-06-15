@@ -3,8 +3,9 @@ author: Cookie and Kate
 source: https://cookieandkate.com/maple-new-york-sour/
 tags: Recipe, unprocessed
 ---
+
 - Description
-This Old Fashioned cocktail recipe calls for maple syrup instead of plain simple syrup. It's the best Old Fashioned you'll ever have! Recipe yields 1 drink. See note on how to make in bulk.
+  This [[Old Fashioned]] cocktail recipe calls for maple syrup instead of plain simple syrup. It's the best Old Fashioned you'll ever have! Recipe yields 1 drink. See note on how to make in bulk.
 - Ingredients
 	- 2 ounces bourbon (I like Four Roses)
 	- 1/2 to 1 teaspoon maple syrup, to taste
