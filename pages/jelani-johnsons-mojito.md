@@ -1,6 +1,6 @@
 ---
 title: Jelani Johnson’s Mojito
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
