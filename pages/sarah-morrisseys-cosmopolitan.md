@@ -5,7 +5,7 @@ source: punchdrink.com
 
 - Description
 - Ingredients
-	- 1/2 ounce lime juice
+	- 1/2 ounce [[[[lime]] juice]]
 	- 1 ounce cranberry juice
 	- 3/4 ounce Cointreau
 	- 1 1/2 ounce lemon vodka, preferably Stolichnaya Citron
