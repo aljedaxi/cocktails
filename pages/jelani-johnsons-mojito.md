@@ -6,10 +6,10 @@ source: punchdrink.com
 
 - Description
 - Ingredients
-	- 2 ounces [[light [[rum]]]], preferably Havana Club 3 Year or Flor de Caña 4 Year
-	- 1 ounce simple syrup
-	- 3/4 ounce lime juice
-	- 1 ounce soda water
+	- 2 ounces [[white [[rum]]]], preferably Havana Club 3 Year or Flor de Caña 4 Year
+	- 1 ounce [[simple syrup]]
+	- 3/4 ounce [[[[lime]] juice]]
+	- 1 ounce [[Soda water]]
 	- 8-10 mint leaves
 	- Garnish: mint bouquet
 - Instructions
