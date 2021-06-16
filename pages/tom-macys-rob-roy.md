@@ -7,8 +7,8 @@ source: punchdrink.com
 - Description
 - Ingredients
 	- 2 ounces [[Scotch]], preferably Highland Park 12
-	- 1 ounce sweet vermouth, preferably Carpano Antica
-	- 2 dashes Angostura bitters
+	- 1 ounce [[sweet [[vermouth]]]] , preferably Carpano Antica
+	- 2 dashes [[Angostura [[bitters]]]]
 	- Garnish: Luxardo cherry
 - Instructions
 	- Combine all ingredients in a mixing glass over ice and stir until chilled.
