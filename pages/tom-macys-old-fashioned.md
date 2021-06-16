@@ -1,7 +1,7 @@
 ---
 title: Tom Macy’s Old-Fashioned
 tags: Recipe
-source: punchdrink.com
+source: 
 ---
 
 - Description
