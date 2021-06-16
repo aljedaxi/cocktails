@@ -5,6 +5,7 @@ source: punchdrink.com
 ---
 
 - Description
+	- #gimlet
 	- As one panelist observed, the resulting drink, which requires muddling two lime wedges in the syrup, before shaking with the gin and lime juice, reads like a “gin [[Caipirinha]].”
 - Ingredients
 	- 2 ounces [[gin]], preferably Tanqueray
