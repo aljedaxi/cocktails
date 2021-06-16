@@ -4,6 +4,7 @@ author: Liquor.com
 source: https://www.liquor.com/recipes/high-king-highball/
 tags: Recipe
 ---
+
 # High King Highball
 Pouring Ribbons bartender Joaquín Simón makes the High King Highball with Irish whiskey, Aperol, raspberries and two kinds of citrus.
 # Ingredients
@@ -15,7 +16,7 @@ Pouring Ribbons bartender Joaquín Simón makes the High King Highball with Iris
 - 3/4 ounce [[grapefruit juice]], freshly squeezed
 - 1 dash [[Peychaud's bitters]]
 - [[Club soda]], to top
-- Garnish: [[lemon wheel]]
+- Garnish: [[[[lemon]] wheel]]
 - Garnish: [[raspberry]]
 # Steps
 - In a cocktail shaker, muddle the raspberries and simple syrup.
