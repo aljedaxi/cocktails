@@ -1,6 +1,6 @@
 ---
 title: St. John Frizell’s Hemingway Daiquiri
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
