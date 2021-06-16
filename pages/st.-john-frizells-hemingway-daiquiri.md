@@ -7,8 +7,8 @@ source: punchdrink.com
 - Description
 - Ingredients
 	- 2 ounces [[white [[rum]]]], preferably Denizen Aged White Rum
-	- 3/4 ounce lime juice
-	- 1/2 ounce grapefruit juice
+	- 3/4 ounce [[[[lime]] juice]]
+	- 1/2 ounce [[grapefruit juice]]
 	- 1/4 ounce maraschino liqueur, preferably Luxardo
 	- 3/8 ounce simple syrup
 	- 1 small piece grapefruit peel, approximately ½ inch x 2 inches
