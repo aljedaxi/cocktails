@@ -1,5 +1,5 @@
 ---
-title: Fanny Chus Piña Colada
+glass: hurricane
 tags: Recipe, Unprocessed
 ---
 
