@@ -9,7 +9,7 @@ source: punchdrink.com
 	- 1 ounce [[cranberry juice]]
 	- 3/4 ounce [[Cointreau]]
 	- 1 1/2 ounce [[lemon vodka]], preferably Stolichnaya Citron
-	- Garnish: [[[[orange]] peel]] , lime wedge
+	- Garnish: [[[[orange]] peel]], [[[[lime]] wedge]]
 - Instructions
 	- Combine all ingredients in a mixing tin and shake with ice.
 	- Strain into a chilled couple.
