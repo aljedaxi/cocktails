@@ -1,6 +1,6 @@
 ---
 glass: hurricane
-tags: Recipe, Unprocessed
+tags: Recipe
 ---
 
 - Description
