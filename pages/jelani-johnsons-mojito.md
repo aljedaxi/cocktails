@@ -10,7 +10,7 @@ source: punchdrink.com
 	- 1 ounce [[simple syrup]]
 	- 3/4 ounce [[[[lime]] juice]]
 	- 1 ounce [[Soda water]]
-	- 8-10 mint leaves
+	- 8-10 [[mint]] leaves
 	- Garnish: mint bouquet
 - Instructions
 	- In a pilsner glass, gently muddle the mint leaves in the simple syrup.
