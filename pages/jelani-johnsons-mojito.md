@@ -11,7 +11,7 @@ source: punchdrink.com
 	- 3/4 ounce [[[[lime]] juice]]
 	- 1 ounce [[Soda water]]
 	- 8-10 [[mint]] leaves
-	- Garnish: mint bouquet
+	- Garnish: [[mint]] bouquet
 - Instructions
 	- In a pilsner glass, gently muddle the mint leaves in the simple syrup.
 	- Add the lime juice and rum then stir to integrate.
