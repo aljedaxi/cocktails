@@ -8,7 +8,7 @@ source: https://punchdrink.com/recipes/mexican-firing-squad/
 - 3/4 ounce [[[[lime]] juice]]
 - 3/4 ounce [[grenadine]]
 - 5 dashes [[Angostura [[bitters]]]]
-- Garnish: [[lime wheel]]
+- Garnish: [[[[lime]] wheel]]
 - instructions
 - Add all ingredients to a cocktail shaker.
 - Add ice and shake until chilled.
