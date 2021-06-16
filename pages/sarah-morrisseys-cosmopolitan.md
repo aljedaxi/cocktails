@@ -1,6 +1,7 @@
 ---
 tags: Recipe
 source: punchdrink.com
+glass: coupe
 ---
 
 - Description
@@ -12,6 +13,6 @@ source: punchdrink.com
 	- Garnish: [[[[orange]] peel]], [[[[lime]] wedge]]
 - Instructions
 	- Combine all ingredients in a mixing tin and shake with ice.
-	- Strain into a chilled couple.
+	- Strain into a chilled coupe.
 	- Express the orange peel and discard.
 	- Garnish with lime wedge.
