@@ -10,7 +10,7 @@ source: punchdrink.com
 	- 2 ounces [[gin]], preferably Tanqueray
 	- 1/2 ounce [[[[lime]] juice]]
 	- 3/4 ounce [[simple syrup]]
-	- 2 lime "eighths"
+	- 2 [[lime]] "eighths"
 - Instructions
 	- Combine all ingredients in a mixing tin and shake with ice.
 	- Strain into a chilled coupe or cocktail glass.
