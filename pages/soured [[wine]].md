@@ -1,1 +1,1 @@
-- try mixing soured wine with [[campari]],
+- try mixing soured wine with [[campari]], [[Aperol]]
