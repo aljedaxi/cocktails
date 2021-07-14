@@ -11,5 +11,5 @@ tags: recipe, martini
 	- 2 ounces [[gin]]
 	- 1/4 ounce [[dry [[vermouth]]]]
 	- 1/4 ounce [[absinthe]] or [[pastis]]
-# Steps
-- Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.
+- Steps
+	- Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.
