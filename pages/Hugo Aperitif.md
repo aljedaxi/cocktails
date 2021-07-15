@@ -2,7 +2,7 @@
 	- 150 ml [[Prosecco]]
 	- 100 ml [[mineral water]] (very bubbly)
 	- 2 cl [[Elderflower syrup]] (Holunderblütensirup)
-	- 3 [[ [[mint]] leaves]]
+	- 3 [[[[mint]] leaves]]
 	- 1 [[lime]]
 	- ice cubes as needed
 - Instructions
