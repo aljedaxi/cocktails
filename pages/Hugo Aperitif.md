@@ -1,6 +1,7 @@
 ---
 source: http://www.mybestgermanrecipes.com/hugo-aperitif/
 timing: [[Apéritif]]
+tags: recipe
 ---
 
 - Ingredients
