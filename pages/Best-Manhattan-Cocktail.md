@@ -15,5 +15,5 @@ glass: coupe, cocktail
 	- 2 dashes [[Angostura [[bitters]]]]
 	- 1 Luxardo cherry or other [[cocktail cherry]], for garnish
 - Steps
-	- Fill a mixing glass a few inches high with ice. Add the whiskey, vermouth and bitters. Stir in a circular motion for about 30 seconds, or until the drink is very cold (if you&#8217;d like a drink with less bite, stir longer).
+	- Fill a mixing glass a few inches high with ice. Add the whiskey, vermouth and bitters. Stir in a circular motion for about 30 seconds, or until the drink is very cold (if you'd like a drink with less bite, stir longer).
 	- Strain the liquid into a coupe or martini glass. Garnish with a cocktail cherry. Enjoy.
