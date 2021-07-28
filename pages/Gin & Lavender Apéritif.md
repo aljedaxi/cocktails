@@ -1,7 +1,7 @@
 ---
 source: https://www.firstordergin.com/gin-and-lavender-aperitif/
 tags: recipe
-method: shaken
+method: [[shaken]] 
 glass: coupe
 timing: [[Apéritif]]
 ---
