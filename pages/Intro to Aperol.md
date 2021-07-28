@@ -1,5 +1,6 @@
 ---
 Author: Jeff Soloman
+Tags: Recipe
 Source: https://www.youtube.com/watch?v=GZTikvfi53Q
 Timing: [[Apéritif]] 
 Glass: [[coupe]] 
