@@ -6,3 +6,8 @@ title: make for astrid
 - [[martini]]
 - [[Macaulay Culkin]]
 - [[Toby Cecchini's Gin and Tonic]]
+- Aperitifs:
+	- [[negroni]]
+	- [[Boulevardier]]
+- Digestifs:
+	- [[Sawyer]]

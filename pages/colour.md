@@ -1,0 +1,4 @@
+- palettes:
+	- https://material.io/resources/color/
+	- https://material-ui.com/customization/color/#picking-colors
+	- https://paletton.com/

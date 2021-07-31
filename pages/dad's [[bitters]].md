@@ -1,0 +1,3 @@
+- 1 1/2 ounces [[Angostura [[bitters]]]]
+- 1 ounce Bitter Truth [[orange [[bitters]]]]
+- 1 teaspoon Bitter Truth Jerry Thomas [[Decanter [[bitters]]]]
