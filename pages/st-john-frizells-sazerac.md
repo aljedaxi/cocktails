@@ -7,10 +7,10 @@ source: punchdrink.com
 - Description
 - Ingredients
 	- 2 ounces [[rye]] , preferably Old Overholt
-	- scant 1/4 ounce simple syrup
-	- 2 dashes Peychaud's bitters
-	- 1 dash Angostura bitters
-	- absinthe, preferably Pernod (to rinse)
+	- scant 1/4 ounce [[simple syrup]]
+	- 2 dashes [[Peychaud's bitters]]
+	- 1 dash [[Angostura [[bitters]]]]
+	- [[absinthe]] , preferably Pernod (to rinse)
 	- Garnish: expressed lemon peel
 - Instructions
 	- Using an atomizer, mist a frozen Old-Fashioned glass 4 times with absinthe.
