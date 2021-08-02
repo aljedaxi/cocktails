@@ -1,6 +1,7 @@
 ---
 title: St John Frizell’s Sazerac
-tags: Recipe, Unprocessed
+tags: Recipe
+timing: 
 source: punchdrink.com
 ---
 
