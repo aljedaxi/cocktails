@@ -1,7 +1,7 @@
 ---
 title: St John Frizell’s Sazerac
 tags: Recipe
-timing: 
+timing: [[]]
 source: punchdrink.com
 ---
 
