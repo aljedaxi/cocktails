@@ -12,7 +12,7 @@ source: punchdrink.com
 	- 2 dashes [[Peychaud's bitters]]
 	- 1 dash [[Angostura [[bitters]]]]
 	- [[absinthe]] , preferably Pernod (to rinse)
-	- Garnish: expressed lemon peel
+	- Garnish: expressed [[[[lemon]] peel]]
 - Instructions
 	- Using an atomizer, mist a frozen Old-Fashioned glass 4 times with absinthe.
 	- Combine the remaining ingredients in a mixing glass over ice and stir until chilled.
