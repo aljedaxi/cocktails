@@ -30,7 +30,7 @@ const readInput = (x) =>
 const findShit = () =>
 	logFork (either (reject) (pair (findIngredientsForRecipesWithNames)) (lift2 (Pair) (path) (input)))
 
-const recipes = [
+const recipes = [ 
 ]
 
 recipes.forEach(readInput)

@@ -10,6 +10,7 @@ const file = ({name, tags}) => ({description, ingredients, instructions}) => (
 `---
 title: ${name}
 tags: ${tags.join(', ')}
+source: punchdrink.com
 ---
 - Description
 ${description ?? ''}
@@ -52,7 +53,11 @@ const writeFile = path => name => content =>
 const main = path => name => content =>
 	writeFile (path) (name) (fromPunchKopipe (name) (content))
 
-const punch = (`
-`)
+const punches = [
+	{
+	}
+]
 
-main ('../pages/') ('') (punch)
+await Promise.all (
+    punches.map (({title, recipe}) => main ('../pages/') (title) (recipe))
+)
