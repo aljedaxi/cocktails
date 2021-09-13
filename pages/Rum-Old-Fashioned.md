@@ -2,7 +2,7 @@
 title: Rum Old Fashioned
 author: Liquor.com
 source: https://www.liquor.com/recipes/rum-old-fashioned/
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 
 - Description
@@ -12,8 +12,8 @@ tags: Recipe, unprocessed
 	- 1 teaspoon [[demerara syrup]]
 	- 1 teaspoon [[allspice]] dram
 	- 2 dashes [[orange [[bitters]]]]
-	- 2 dashes Angostura bitters
-	- Garnish: orange twist
+	- 2 dashes [[Angostura [[bitters]]]]
+	- Garnish: [[[[orange]] twist]]
 - Steps
 	- Place a large ice cube into an Old Fashioned glass.
 	- Add the rum, allspice dram, demerara syrup and both bitters, and stir until well-chilled.
