@@ -1,5 +1,5 @@
 ---
-title: Dan Sabo’s Whiskey Sour
+title: Dan Sabo’s [[Whiskey Sour]]
 tags: Recipe
 source: punchdrink.com
 method: shaken
