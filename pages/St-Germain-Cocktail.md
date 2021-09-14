@@ -2,7 +2,7 @@
 title: St-Germain Cocktail
 author: Liquor.com
 source: https://www.liquor.com/recipes/the-st-germain-cocktail/
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 
 - Description
