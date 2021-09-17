@@ -11,8 +11,8 @@ tags: Recipe, unprocessed
 	- 15 [[pink peppercorns]]
 	- 1 ounce [[tequila]]
 	- 1 ounce [[vanilla liqueur]]
-	- 3/4 ounce ruby red grapefruit juice, freshly squeezed
-	- 1/2 ounce lemon juice, freshly squeezed
+	- 3/4 ounce [[[[ruby red grapefruit]] juice]], freshly squeezed
+	- 1/2 ounce [[[[lemon]] juice]] , freshly squeezed
 	- Garnish: pink peppercorns
 - Steps
 	- Muddle the peppercorns in a shaker.
