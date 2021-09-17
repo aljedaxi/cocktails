@@ -11,8 +11,8 @@ tags: Recipe
 	- 1 3/4 ounces joven [[mezcal]]
 	- 3/4 ounce [[pineapple juice]]
 	- 1/2 ounce [[[[lime]] juice]] , freshly squeezed
-	- 1 ounce honey-pineapple syrup*
-	- 3 dashes Bittermens Hellfire habanero shrub
+	- 1 ounce [[honey-pineapple syrup]]*
+	- 3 dashes [[Bittermens Hellfire habanero shrub]]
 	- Garnish: pink peppercorn, ground
 - Steps
 	- Add all ingredients into a shaker with ice and shake until well-chilled.
