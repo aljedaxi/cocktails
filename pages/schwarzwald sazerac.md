@@ -1,7 +1,11 @@
-- First Draft Ingredients:
-	- two barspoons maple syrup
-	- one heaping barspoon soured mulled wine
-	- 2 ounce alberta premium
-	- .5 ounce absinthe
-	- .5 ounce aquavit
-	- 1 ounce
+- First Draft
+	- Ingredients:
+		- two barspoons maple syrup
+		- one heaping barspoon soured mulled wine
+		- 2 ounce alberta premium
+		- .5 ounce absinthe
+		- .5 ounce aquavit
+		- 4 dashes peychauds
+		- 2 dashes angos
+	- Impressions:
+		-
