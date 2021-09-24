@@ -54,6 +54,44 @@ const main = path => name => content =>
 	writeFile (path) (name) (fromPunchKopipe (name) (content))
 
 const punches = [
+	{
+		title: 'little italy',
+		recipe: `
+			Ingredients
+
+Serving: 1
+
+    2 ounces rye whiskey, preferably Rittenhouse 100 proof
+    1/2 ounce Cynar
+    3/4 ounce sweet vermouth, preferably Martini & Rossi Rosso
+
+Garnish: 3 Luxardo maraschino cherries, skewered
+Directions
+
+    Combine all ingredients in a mixing glass filled with ice and stir until chilled.
+    Strain into a chilled coupe or cocktail glass.
+    Garnish with 3 Luxardo cherries on a skewer.
+		`,
+	},
+	{
+		title: 'inverno luce',
+		recipe: `
+		Ingredients
+
+Serving: 1
+
+    1 3/4 ounces Amaro Sibona
+    3/4 ounce single malt scotch whisky, preferably Glenlivet 12-Year
+    1/2 ounce gin, preferably St. George Terroir
+
+Garnish: orange twist
+Directions
+
+    Combine all ingredients in a mixing glass over ice and stir until chilled.
+    Strain into a rocks glass over a large ice cube.
+    Garnish with an orange twist.
+		`,
+	},
 ]
 
 await Promise.all (
