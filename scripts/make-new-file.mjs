@@ -95,8 +95,24 @@ Directions
 		`,
 	},
 	{
-		title: '',
+		title: 'Trident',
 		recipe: `
+		Ingredients
+
+Serving: 1
+
+    1 ounce aquavit (preferably Linie)
+    1 ounce Cynar
+    1 ounce fino sherry (preferably La Ina)
+    2 dashes peach bitters
+
+Garnish: lemon peel
+Directions
+
+    Add all ingredients to a mixing glass.
+    Add ice and stir well.
+    Strain into a chilled coupe or cocktail glass.
+    Garnish with a lemon peel.
 		`,
 	},
 ]
