@@ -55,42 +55,24 @@ const main = path => name => content =>
 
 const punches = [
 	{
-		title: 'little italy',
-		recipe: `
-			Ingredients
-
-Serving: 1
-
-    2 ounces rye whiskey, preferably Rittenhouse 100 proof
-    1/2 ounce Cynar
-    3/4 ounce sweet vermouth, preferably Martini & Rossi Rosso
-
-Garnish: 3 Luxardo maraschino cherries, skewered
-Directions
-
-    Combine all ingredients in a mixing glass filled with ice and stir until chilled.
-    Strain into a chilled coupe or cocktail glass.
-    Garnish with 3 Luxardo cherries on a skewer.
-		`,
-	},
-	{
-		title: 'inverno luce',
+		title: 'Boo Radley',
 		recipe: `
 		Ingredients
 
 Serving: 1
 
-    1 3/4 ounces Amaro Sibona
-    3/4 ounce single malt scotch whisky, preferably Glenlivet 12-Year
-    1/2 ounce gin, preferably St. George Terroir
+    2 ounces bourbon
+    3/4 ounce Cynar
+    1/2 ounce Cherry Heering
 
-Garnish: orange twist
+Garnish: lemon and orange peel
 Directions
 
-    Combine all ingredients in a mixing glass over ice and stir until chilled.
-    Strain into a rocks glass over a large ice cube.
-    Garnish with an orange twist.
-		`,
+    Add all ingredients to a mixing glass.
+    Add ice and stir until chilled.
+    Strain into a chilled coupe or cocktail glass.
+    Express a lemon and an orange peel over cocktail. Garnish with peels (optional).
+		`
 	},
 ]
 
