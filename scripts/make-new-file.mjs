@@ -74,6 +74,31 @@ Directions
     Express a lemon and an orange peel over cocktail. Garnish with peels (optional).
 		`
 	},
+	{
+		title: 'Choke Artist',
+		recipe: `
+		Ingredients
+
+Serving: 1
+
+    1 1/2 ounces Cynar
+    1/4 ounce Cynar 70
+    3/4 ounce bianco vermouth
+    1/2 ounce reposado tequila
+
+Garnish: grapefruit twist
+Directions
+
+    Combine all ingredients in a mixing glass over ice and stir until chilled.
+    Strain into a double Old-Fashioned glass.
+    Garnish with a grapefruit twist.
+		`,
+	},
+	{
+		title: '',
+		recipe: `
+		`,
+	},
 ]
 
 await Promise.all (
