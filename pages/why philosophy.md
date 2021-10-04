@@ -1,3 +1,4 @@
+-
 - clarity
 	- what am i meaning when i use these words
 - ethics
