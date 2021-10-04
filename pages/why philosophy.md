@@ -1,0 +1,7 @@
+- clarity
+	- what am i meaning when i use these words
+- ethics
+	- Spinoza
+- being / phenomenology
+	- heidegger
+	- the question of technology
