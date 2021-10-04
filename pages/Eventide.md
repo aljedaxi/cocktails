@@ -1,6 +1,6 @@
 ---
 source: https://www.firstordergin.com/eventide/
-method: stirred
+method: [[stirred]] 
 glass: cocktail
 ---
 

@@ -2,7 +2,7 @@
 author: Cookie and Kate
 source: https://cookieandkate.com/maple-new-york-sour/
 tags: Recipe
-method: stirred
+method: [[stirred]]
 glass: rocks
 timing: [[Apéritif]] 
 ---

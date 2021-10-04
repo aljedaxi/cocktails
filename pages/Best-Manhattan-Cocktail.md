@@ -2,7 +2,7 @@
 author: Cookie and Kate
 source: https://cookieandkate.com/best-manhattan-cocktail-recipe
 tags: Recipe
-method: stirred
+method: [[stirred]] 
 glass: coupe, cocktail
 ---
 
