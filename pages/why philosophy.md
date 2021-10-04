@@ -1,4 +1,4 @@
--
+- firstly, there is the pretension that the works of philosophy are phenomologically rigorous
 - clarity
 	- what am i meaning when i use these words
 - ethics
