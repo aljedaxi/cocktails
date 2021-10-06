@@ -1,3 +1,3 @@
--
-  ---
-  alias: dry vermouth
+---
+alias: [[dry [[vermouth]]]]
+---
