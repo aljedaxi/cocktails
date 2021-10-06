@@ -54,67 +54,6 @@ const main = path => name => content =>
 	writeFile (path) (name) (fromPunchKopipe (name) (content))
 
 const punches = [
-	{
-		title: 'Boo Radley',
-		recipe: `
-		Ingredients
-
-Serving: 1
-
-    2 ounces bourbon
-    3/4 ounce Cynar
-    1/2 ounce Cherry Heering
-
-Garnish: lemon and orange peel
-Directions
-
-    Add all ingredients to a mixing glass.
-    Add ice and stir until chilled.
-    Strain into a chilled coupe or cocktail glass.
-    Express a lemon and an orange peel over cocktail. Garnish with peels (optional).
-		`
-	},
-	{
-		title: 'Choke Artist',
-		recipe: `
-		Ingredients
-
-Serving: 1
-
-    1 1/2 ounces Cynar
-    1/4 ounce Cynar 70
-    3/4 ounce bianco vermouth
-    1/2 ounce reposado tequila
-
-Garnish: grapefruit twist
-Directions
-
-    Combine all ingredients in a mixing glass over ice and stir until chilled.
-    Strain into a double Old-Fashioned glass.
-    Garnish with a grapefruit twist.
-		`,
-	},
-	{
-		title: 'Trident',
-		recipe: `
-		Ingredients
-
-Serving: 1
-
-    1 ounce aquavit (preferably Linie)
-    1 ounce Cynar
-    1 ounce fino sherry (preferably La Ina)
-    2 dashes peach bitters
-
-Garnish: lemon peel
-Directions
-
-    Add all ingredients to a mixing glass.
-    Add ice and stir well.
-    Strain into a chilled coupe or cocktail glass.
-    Garnish with a lemon peel.
-		`,
-	},
 ]
 
 await Promise.all (
