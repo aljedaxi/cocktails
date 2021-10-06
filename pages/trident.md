@@ -1,6 +1,6 @@
 ---
 title: Trident
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
@@ -13,6 +13,6 @@ source: punchdrink.com
 	- Garnish: [[[[lemon]] peel]]
 - Instructions
 	- Add all ingredients to a mixing glass.
-	- Add ice and stir well.
-	- Strain into a chilled coupe or cocktail glass.
+	- Add ice and [[stir]] well.
+	- Strain into a chilled [[coupe]] or [[cocktail glass]].
 	- Garnish with a lemon peel.
