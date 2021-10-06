@@ -1,6 +1,6 @@
 ---
 title: Algonquin
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
