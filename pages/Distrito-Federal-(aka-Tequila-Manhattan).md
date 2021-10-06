@@ -2,7 +2,7 @@
 title: Distrito Federal (aka Tequila Manhattan)
 author: Liquor.com
 source: https://www.liquor.com/recipes/tequila-manhattan/
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 
 - Description
@@ -10,10 +10,10 @@ tags: Recipe, unprocessed
 - Ingredients
 	- 2 ounces [[reposado [[tequila]]]]
 	- 1 ounce [[sweet [[vermouth]]]]
-	- 2 dashes orange bitters
-	- Garnish: lime twist
-	- Garnish: cocktail cherry (optional)
+	- 2 dashes [[orange [[bitters]]]]
+	- Garnish: [[[[lime]] twist]]
+	- Garnish: [[cocktail cherry]] (optional)
 - Steps
-	- Add the tequila, sweet vermouth and orange bitters into a mixing glass with ice and stir until well-chilled.
-	- Strain into a chilled cocktail glass.
+	- Add the tequila, sweet vermouth and orange bitters into a mixing glass with ice and [[stir]] until well-chilled.
+	- Strain into a chilled [[cocktail glass]].
 	- Garnish with a lime twist and an optional cherry.
