@@ -14,6 +14,6 @@ tags: Recipe
 	- Garnish: [[[[orange]] slice]]
 	- Garnish: [[cherry]]
 - Steps
-	- Add the tequila and then the orange juice to a chilled highball glass filled with ice.
+	- Add the tequila and then the orange juice to a chilled [[highball glass]] filled with ice.
 	- Top with the grenadine, which will sink to the bottom of the glass, creating a layered effect.
 	- Garnish with an orange slice and a cherry.
