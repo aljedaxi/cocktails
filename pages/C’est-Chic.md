@@ -13,7 +13,7 @@ tags: Recipe
 	- 1/2 ounce [[[[lime]] juice]] , freshly squeezed
 	- 2 ounces [[hibiscus-mint tea]]*
 	- 1/2 ounce [[Campari]]
-	- 2 ounces [[Alessio bianco [[vermouth]]]]
+	- 2 ounces [[Alessio [[bianco [[vermouth]]]]]]
 	- Garnish: [[mint]] sprig
 - Steps
 	- Pour all ingredients into a rocks glass, adding the Campari and vermouth last.

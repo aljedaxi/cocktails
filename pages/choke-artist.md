@@ -10,9 +10,9 @@ source: punchdrink.com
 	- 1/4 ounce [[Cynar 70]]
 	- 3/4 ounce [[bianco [[vermouth]]]]
 	- 1/2 ounce [[reposado [[tequila]]]]
-	- Garnish: grapefruit twist
+	- Garnish: [[[[grapefruit]] twist]]
 - Instructions
-	- Combine all ingredients in a mixing glass over ice and stir until chilled.
-	- Strain into a double Old-Fashioned glass.
+	- Combine all ingredients in a mixing glass over ice and [[stir]] until chilled.
+	- Strain into a [[double Old-Fashioned glass]].
 	- Garnish with a grapefruit twist.
 	-
