@@ -13,6 +13,6 @@ source: punchdrink.com
 	- [[[[orange]] twist]]
 	- Garnish: [[[[lemon]] twist]]
 - Instructions
-	- Combine all ingredients, including the orange peel, in a mixing glass with ice and stir until chilled.
-	- Strain into a coupe.
-	- Garnish with a lemon twist.
+	- Combine all ingredients, including the orange peel, in a mixing glass with ice and [[stir]] until chilled.
+	- Strain into a [[coupe]].
+	- Garnish with a [[[[lemon]] twist]] .
