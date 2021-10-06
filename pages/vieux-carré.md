@@ -15,6 +15,6 @@ source: punchdrink.com
 	- Garnish: lemon peel
 - Instructions
 	- Add all ingredients to a mixing glass.
-	- Add ice and stir until chilled.
-	- Strain over ice into a rocks glass.
+	- Add ice and [[stir]] until chilled.
+	- Strain over ice into a [[rocks glass]] .
 	- Garnish with an orange or lemon peel.
