@@ -1,6 +1,6 @@
 ---
 title: Choke Artist
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
@@ -15,4 +15,3 @@ source: punchdrink.com
 	- Combine all ingredients in a mixing glass over ice and [[stir]] until chilled.
 	- Strain into a [[double Old-Fashioned glass]].
 	- Garnish with a grapefruit twist.
-	-
