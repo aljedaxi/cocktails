@@ -1,6 +1,6 @@
 ---
 title: Angelo Azzurro
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 

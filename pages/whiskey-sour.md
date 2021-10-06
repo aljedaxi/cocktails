@@ -13,4 +13,4 @@ source: punchdrink.com
 - Instructions
 	- Add all ingredients to a cocktail shaker, and [[dry shake]].
 	- Add ice to the shaker and shake well.
-	- Strain into a chilled [[coupe]] or [[cocktail glass]] or over ice into a [[rocks glass]] .
+	- Strain into a chilled [[coupe]] or [[cocktail glass]] or over ice into a [[rocks glass]].
