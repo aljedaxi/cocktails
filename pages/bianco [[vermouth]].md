@@ -1,1 +1,1 @@
-alias:: blanc
+alias:: [[blanc [[vermouth]]]]
