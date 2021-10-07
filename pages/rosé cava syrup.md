@@ -1,0 +1,1 @@
+- *Rosé cava syrup: Add 3 cups rosé cava and 1 cup raw acacia honey into a pot over low heat and stir until honey is dissolved. Remove from heat and allow to cool before using. Will keep, tightly covered and refrigerated, for up to 1 month.

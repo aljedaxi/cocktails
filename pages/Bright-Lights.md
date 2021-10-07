@@ -2,7 +2,7 @@
 title: Bright Lights
 author: Kate Dingwall
 source: https://www.liquor.com/bright-lights-cocktail-recipe-5119075
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 
 - Description
@@ -18,4 +18,4 @@ tags: Recipe, unprocessed
 - Steps
 	- Add the tequila, sotol, verjus, syrup and bitters into a mixing glass with ice and [[stir]] until well-chilled.
 	- Strain into a [[rocks glass]] over fresh ice.
-	- Garnish with an orange twist and a grapefruit twist. *Rosé cava syrup: Add 3 cups rosé cava and 1 cup raw acacia honey into a pot over low heat and stir until honey is dissolved. Remove from heat and allow to cool before using. Will keep, tightly covered and refrigerated, for up to 1 month.
+	- Garnish with an orange twist and a grapefruit twist.
