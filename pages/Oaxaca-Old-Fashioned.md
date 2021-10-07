@@ -2,7 +2,7 @@
 title: Oaxaca Old Fashioned
 author: Kevin Gray
 source: https://www.liquor.com/recipes/oaxacan-old-fashioned/
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 
 - Description
