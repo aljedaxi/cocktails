@@ -13,9 +13,9 @@ tags: Recipe, unprocessed
 	- 2 barspoons [[orgeat]]
 	- 1 dash [[Angostura [[bitters]]]]
 	- 1 dash [[Fee Brothers Aztec [[chocolate bitters]]]]
-	- Garnish: cranberry
-	- Garnish: grated cinnamon
-	- Garnish: orange twist
+	- Garnish: [[cranberry]]
+	- Garnish: [[grated [[cinnamon]]]]
+	- Garnish: [[[[orange]] twist]]
 - Steps
 	- Add the mezcal, bourbon, orgeat, Angostura bitters and Aztec chocolate bitters into a mixing glass with ice and stir until well-chilled.
 	- Strain into an Old Fashioned glass over fresh ice.
