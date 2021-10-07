@@ -2,7 +2,7 @@
 title: Zapatero
 author: Liquor.com
 source: https://www.liquor.com/recipes/the-zapatero/
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 
 - Description
@@ -18,5 +18,5 @@ tags: Recipe, unprocessed
 	- Garnish: [[[[orange]] twist]]
 - Steps
 	- Add the mezcal, bourbon, orgeat, Angostura bitters and Aztec chocolate bitters into a mixing glass with ice and stir until well-chilled.
-	- Strain into an Old Fashioned glass over fresh ice.
+	- Strain into an [[Old Fashioned glass]] over fresh ice.
 	- Garnish with a Lounge Attire cocktail cranberry, grated cinnamon and an orange twist.
