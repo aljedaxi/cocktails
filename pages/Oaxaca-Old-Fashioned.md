@@ -14,5 +14,5 @@ tags: Recipe, unprocessed
 	- 2 dashes [[Angostura [[bitters]]]]
 	- Garnish: [[flamed [[[[orange]] peel]]]]
 - Steps
-	- Add the tequila, mezcal, agave nectar and Angostura bitters to an [[Old Fashioned glass]] with one large ice cube, and stir until well-chilled.
+	- Add the tequila, mezcal, agave nectar and Angostura bitters to an [[Old Fashioned glass]] with one large ice cube, and [[stir]] until well-chilled.
 	- Flame an orange peel over the top of the drink to express its oils, then garnish with the peel.
