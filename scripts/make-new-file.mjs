@@ -203,7 +203,55 @@ Directions
 `
 	},
 	{
+		title: 'Ford cocktail',
+		recipe: `
+
+
+The improved formula—that is, the traditional recipe gussied up with a splash of this or that—informs many early Martinis poised for a comeback, including the Ford Cocktail, which adds Bénédictine into the mix alongside several dashes of orange bitters.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    1 1/2 ounces Old Tom gin
+    1 1/2 ounces dry vermouth
+    4 dashes Bénédictine
+    4 dashes orange bitters
+
+Garnish: orange twist
+Directions
+
+    Combine all ingredients in a mixing glass with ice and stirred until chilled.
+    Strain into a chilled cocktail glass.
+    Garnish with an orange twist.
+
+`
 	},
+			{ 'title': 'beefsteak martini', recipe: `
+
+This subtle Martini variation from Phil Ward features a mix of Plymouth gin, Carpano bianco vermouth and Dolin dry vermouth. The ghostly herbal aftertaste comes from letting the liquor sit upon a bed of shiso leaves for a minute before it’s stirred over ice and strained into a shiso-rubbed glass.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    2 ounces gin, preferably Plymouth
+    1 ounce bianco vermouth, preferably Carpano
+    1 ounce dry vermouth, preferably Dolin
+    2 shiso leaves
+
+Directions
+
+    Combine all ingredients in a mixing glass without ice for about a minute.
+    Add ice and stir until chilled.
+    Rub the rim of a coupe or cocktail glass with a shiso leaf and discard.
+    Strain into the coupe or cocktail glass.`}
 ]
 
 await Promise.all (
