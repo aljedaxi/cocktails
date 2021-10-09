@@ -11,7 +11,7 @@ source: punchdrink.com
 	- 1 ounce [[sweet [[vermouth]]]]
 	- 3/4 ounce [[green Chartreuse]]
 	- 1 dash [[orange [[bitters]]]]
-	- Garnish: brandied cherry (preferably Luxardo)
+	- Garnish: [[brandied cherry]] (preferably Luxardo)
 - Instructions
 	- Add all ingredients to a mixing glass.
 	- Add ice and stir well.
