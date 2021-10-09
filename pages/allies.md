@@ -1,6 +1,6 @@
 ---
 title: allies
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
