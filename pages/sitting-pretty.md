@@ -1,6 +1,6 @@
 ---
 title: Sitting Pretty
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
@@ -14,8 +14,8 @@ source: punchdrink.com
 	- fresh [[mint]]
 	- Garnish: [[[[lime]] wedge]]
 - Instructions
-	- In the bottom half of a mixing tin, add the mint and simple syrup and muddle to combine.
-	- Add rum, coconut water and lime. Fill with ice and shake until chilled.
-	- Add the grapefruit soda to a Collins glass and fill the glass with fresh ice.
+	- In the bottom half of a mixing tin, add the mint and simple syrup and [[muddle]] to combine.
+	- Add rum, coconut water and lime. Fill with ice and [[shake]] until chilled.
+	- Add the grapefruit soda to a [[Collins glass]] and fill the glass with fresh ice.
 	- Strain the contents of the shaker into the glass and give it a quick stir.
 	- Garnish with a lime wedge.
