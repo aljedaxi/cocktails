@@ -1,6 +1,6 @@
 ---
 title: Kingston Negroni
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
