@@ -1,0 +1,1 @@
+- ever leave white wine in the fridge for a week & come back to something disgustingly sour? use it instead of [[[[lemon]] juice]]
