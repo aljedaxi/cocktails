@@ -74,8 +74,7 @@ const writeFile = path => name => content =>
 
 const log3 = x => y => z => console.log(x,y,z)
 const main = path => name => content =>
-	log3 (path) (name) (fromPunchKopipe (name) (content))
-	// writeFile (path) (name) (fromPunchKopipe (name) (content))
+	writeFile (path) (name) (fromPunchKopipe (name) (content))
 
 const punches = [
 	{
@@ -105,7 +104,7 @@ Directions
     Garnish with an orange peel.
 
 `,
-	}
+	},
 	{
 		title: 'bijou',
 			recipe: `
@@ -133,6 +132,7 @@ Directions
     Garnish with a brandied cherry.
 
 `,
+	},
 	{
 		title: 'fourth degree',
 		recipe: `
