@@ -7,12 +7,12 @@ source: punchdrink.com
 - Description
 - Ingredients
 	- 2 ounces [[white [[rum]]]]
-	- 1 ounce coconut water
-	- 1/2 ounce simple syrup
-	- 1/2 ounce lime juice
-	- 1 ounce sparkling grapefruit soda, preferably Fever-Tree
-	- fresh mint
-	- Garnish: lime wedge
+	- 1 ounce [[coconut water]]
+	- 1/2 ounce [[simple syrup]]
+	- 1/2 ounce [[[[lime]] juice]]
+	- 1 ounce [[sparkling grapefruit soda]], preferably ~~Fever-Tree~~ Ting
+	- fresh [[mint]]
+	- Garnish: [[[[lime]] wedge]]
 - Instructions
 	- In the bottom half of a mixing tin, add the mint and simple syrup and muddle to combine.
 	- Add rum, coconut water and lime. Fill with ice and shake until chilled.
