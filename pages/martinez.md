@@ -1,6 +1,6 @@
 ---
 title: Martinez
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
@@ -14,6 +14,6 @@ source: punchdrink.com
 	- Garnish: [[[[orange]] peel]]
 - Instructions
 	- Add all ingredients to a mixing glass.
-	- Add ice and stir until chilled.
-	- Strain into a chilled coupe or cocktail glass.
+	- Add ice and [[stir]] until chilled.
+	- Strain into a chilled [[coupe]] or [[cocktail glass]].
 	- Garnish with an orange peel.
