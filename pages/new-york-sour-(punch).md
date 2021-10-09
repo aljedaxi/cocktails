@@ -12,6 +12,6 @@ source: punchdrink.com
 	- 1/4 ounce [[red wine]]
 - Instructions
 	- Add whiskey, lemon juice and simple syrup to a cocktail shaker.
-	- Add ice and shake until chilled.
-	- Strain over ice into a rocks glass.
+	- Add ice and [[shake]] until chilled.
+	- Strain over ice into a [[rocks glass]] .
 	- Gently drizzle red wine over the back of a bar spoon to create a float atop the cocktail.
