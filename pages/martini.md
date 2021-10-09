@@ -10,3 +10,5 @@ title: martini
 	- Try adding [[simple syrup]] to everything [[source](https://punchdrink.com/articles/put-simple-syrup-in-your-martini-cocktail-recipe-seriously/)]
 	- [list of Martini variants](https://punchdrink.com/articles/how-to-make-martini-dry-dirty-vesper-cosmopolitan-cocktail-recipe-by-style/)
 	-
+	  > Amid the debate over garnish (Castelvetrano, Kalamata or blue cheese–stuffed olives, a solo twist, olives AND a twist, a lemon coin… you get the idea) and brand of gin were a few wild cards: a 3:1 Martini with a barspoon of green Chartreuse; a wet Martini with black pepper cracked over the top; a Martini with a dose of Amaro Montenegro; and a courageous navy-strength gin Martini. 
+	  [[source](http://x.e.crownpublishing.com/ats/msg.aspx?sg1=1401347bc130e5cae840eb9205212f3a723f76ceac1b2a532f4e993d63de703d&ref=PRHD4A052866720&linkid=PRHD4A052866720&cdi=C276A7713873FFBEE0534FD66B0ACEDE&template_id=22831&aid=randohouseinc4706-20&utm_campaign=punchnewsletter&utm_source=Crown&utm_medium=Email&cid=151448&mid=2392666620)]
