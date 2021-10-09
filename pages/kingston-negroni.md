@@ -13,5 +13,5 @@ source: punchdrink.com
 - Instructions
 	- Add all ingredients to a mixing glass.
 	- Add ice and [[stir]] until chilled.
-	- Strain into over ice (preferably a large cube) into a rocks glass.
+	- Strain into a [[double rocks glass]] over ice (preferably a large cube).
 	- Garnish with a long, trimmed orange peel.
