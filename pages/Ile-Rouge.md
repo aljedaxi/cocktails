@@ -2,7 +2,7 @@
 title: Ile Rouge
 author: Liquor.com
 source: https://www.liquor.com/recipes/ile-rouge/
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 
 - Description
@@ -17,5 +17,5 @@ tags: Recipe, unprocessed
 - Steps
 	- Muddle the peppercorns in a shaker.
 	- Add the vanilla liqueur, tequila, grapefruit juice and lemon juice to the shaker and fill with ice.
-	- Shake and double-strain into a chilled Martini glass.
+	- [[shake]] and double-strain into a chilled Martini glass.
 	- Garnish with a few more peppercorns, floating them on the surface like a peppery island.
