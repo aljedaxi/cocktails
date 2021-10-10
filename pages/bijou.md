@@ -9,7 +9,7 @@ source: punchdrink.com
 - Ingredients
 	- 1 ounce [[gin]]
 	- 1 ounce [[sweet [[vermouth]]]]
-	- 3/4 ounce [[green Chartreuse]]
+	- 3/4 ounce [[green [[Chartreuse]]]]
 	- 1 dash [[orange [[bitters]]]]
 	- Garnish: [[brandied cherry]] (preferably Luxardo)
 - Instructions
