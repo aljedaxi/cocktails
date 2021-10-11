@@ -1,6 +1,6 @@
 ---
 title: A La Mode
-author: Karin Stanley
+author: [[Karin Stanley]]
 resto: Dutch Kills | Brooklyn
 tags: Recipe, Cocktail, Savory
 source: punchdrink.com
