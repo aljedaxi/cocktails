@@ -2,7 +2,7 @@
 title: Nick Bennett’s Vieux Carré
 author: Nick Bennett
 resto: Porchlight | New York
-tags: Recipe, Unprocessed, Classics, Strong
+tags: Recipe, Classics, Strong
 source: punchdrink.com
 ---
 
@@ -17,8 +17,8 @@ source: punchdrink.com
 	- 2 dashes [[Angostura [[bitters]]]]
 	- Garnish: [[[[lemon]] coin]], with a little pitch.
 - Instructions
-	- Combine all ingredients in a mixing glass with ice and stir briefly.
-	- Strain into a rocks glass over fresh ice.
+	- Combine all ingredients in a mixing glass with ice and [[stir]] briefly.
+	- Strain into a [[rocks glass]] over fresh ice.
 	- Garnish with a lemon coin.
 - Editor's Note
 	- Sweet Vermouth Blend: 
