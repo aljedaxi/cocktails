@@ -2,19 +2,34 @@
 
 import S from 'sanctuary'
 const {
-	snd, ap, splitOn, pipe, reject, filter,
-	joinWith, trim, map,
+	snd, ap, splitOn, reject, filter,
+	stripPrefix,
+	fromMaybe,
+	Just,
+	test,
+	joinWith,
+	trim,
 	chain,
+	Pair,
+	type,
+	unchecked,
 } = S
+const {
+	pair,
+	pipe,
+	ifElse,
+	map,
+} = unchecked
 
 const last = xs => xs[xs.length - 1]
 const penult = xs => xs[xs.length - 2]
 const upToPenult = xs => xs.slice (0, -2)
 const jsonTrace = s => {console.log(JSON.stringify(s,undefined,2)); return s;};
+const trace = s => {console.log(s); return s;};
 
-const file = ({name, tags}) => ({description, ingredients, instructions}) => (
+const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => (
 `---
-title: ${name}
+${Object.entries(insertPlainly).map (([k,v]) => `${k}: ${v}`).join('\n')}
 tags: ${tags.join(', ')}
 source: punchdrink.com
 ---
@@ -52,7 +67,7 @@ const processPunchDescription = pipe ([
 	joinWith ('\n'),
 ])
 
-const fromPunchKopipe = name => pipe([
+const fromPunchKopipe = meta => pipe([
 	splitOn ('Directions'),
 	chain (splitOn ('Ingredients')),
 	xs => ({
@@ -65,20 +80,59 @@ const fromPunchKopipe = name => pipe([
 		ingredients: processPunchIngredients, 
 		instructions: processPunchInstructions,
 	}),
-	file ({name, tags: ['Recipe', 'Unprocessed']}),
+	file ({...meta, tags: ['Recipe', 'Unprocessed', ...(meta.tags ?? [])]}),
 ])
 
 const makeFileNameSafe = s => s.replace(/ /g, '-').replace(/’/g, '').toLowerCase()
-const writeFile = path => name => content =>
-	$`echo ${content} >> ${path}${makeFileNameSafe (name)}.md`
+const writeFile = path => title => content =>
+	$`echo ${content} >> ${path}${makeFileNameSafe (title)}.md`
 
 const log3 = x => y => z => console.log(x,y,z)
-const main = path => name => content =>
-	writeFile (path) (name) (fromPunchKopipe (name) (content))
+const main = path => ({title, ...meta}) => content =>
+	writeFile (path) (title) (fromPunchKopipe ({title, ...meta}) (content))
 
 const punches = [
 ]
 
+const isString = pipe ([type, ({name}) => name === 'String'])
+const outDir = '../pages/'
+
+const processTitled = ({title, recipe}) => main (outDir) ({title}) (recipe)
+const hasTags = ([x, y, maybeTags]) => test (/^    \S+/) (maybeTags)
+const processAuthorData = ifElse (test (/adapted from/i)) (
+	pipe ([
+		stripPrefix ('Adapted from '),
+		map (splitOn (' by ')),
+		map (([book, author]) => ({book, author})),
+		fromMaybe ({book: '', author: ''}),
+	])
+) (pipe ([
+	splitOn (', '),
+	([author, resto]) => ({author, resto}),
+]))
+
+const processString = pipe ([
+	splitOn ('\n'),
+	filter (Boolean),
+	reject (test (/^photo:/)),
+	reject (test (/^\s+Share/)),
+	reject (test (/^\s+Tweet/)),
+	reject (test (/^\s+Email/)),
+	reject (test (/^\s+Print/)),
+	reject (test (/^\s+\d+Save/)),
+	reject (test (/^\s+Save/)),
+	ifElse (hasTags) (
+		([title, authorData, tags, ...rest]) => Pair ({
+			title,
+			...processAuthorData (authorData),
+			tags: tags.trim().split(/\s/),
+		}) (rest.join ('\n'))
+	) (
+		([title, authorData, ...rest]) => 
+			Pair ({title, ...processAuthorData (authorData)}) (rest.join('\n'))
+	),
+	pair (main (outDir))
+])
 await Promise.all (
-    punches.map (({title, recipe}) => main ('../pages/') (title) (recipe))
+	map (ifElse (isString) (processString) (processTitled)) (punches)
 )
