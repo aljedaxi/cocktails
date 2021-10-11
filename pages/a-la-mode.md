@@ -2,7 +2,7 @@
 title: A La Mode
 author: Karin Stanley
 resto: Dutch Kills | Brooklyn
-tags: Recipe, Unprocessed, Cocktail, Savory
+tags: Recipe, Cocktail, Savory
 source: punchdrink.com
 ---
 
@@ -13,12 +13,12 @@ source: punchdrink.com
 	- 1/2 ounce [[Licor 43]]
 	- 5 ounces [[apple cider]], fresh
 	- 4 ounces [[heavy cream]]
-	- 1 cube brown sugar
-	- Garnish: freshly grated nutmeg
+	- 1 cube [[brown sugar]]
+	- Garnish: freshly grated [[nutmeg]]
 - Instructions
 	- Add heavy cream and brown sugar cube to a cocktail shaker.
-	- Add the coil of a hawthorne strainer and dry shake, without ice, for ten seconds or more, to aerate but not whip into stiffness. It must be light but still pourable.
+	- Add the coil of a hawthorne strainer and [[dry [[shake]]]], without ice, for ten seconds or more, to aerate but not whip into stiffness. It must be light but still pourable.
 	- In a saucepan, heat bourbon, Licor 43 and cider over low heat until steaming, about 10 minutes.
-	- Pour into a tempered mug.
-	- Holding a slotted spoon closely over the surface of the drink, float a finger's worth of cream on top of the drink.
+	- Pour into a tempered [[mug]].
+	- Holding a slotted spoon closely over the surface of the drink, [[float]] a finger's worth of cream on top of the drink.
 	- Garnish with freshly grated nutmeg.
