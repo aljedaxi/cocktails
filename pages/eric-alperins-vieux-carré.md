@@ -15,8 +15,8 @@ source: punchdrink.com
 	- 1/4 ounce [[Bénédictine]]
 	- 2 dashes [[Peychaud's bitters]]
 	- 2 dashes [[Angostura [[bitters]]]]
-	- Garnish: lemon twist, cherry
+	- Garnish: [[[[lemon]] twist]] , [[cherry]]
 - Instructions
-	- Measure all ingredients into a rocks glass.
-	- Add a large ice cube and stir seven times.
+	- Measure all ingredients into a [[rocks glass]].
+	- Add a large ice cube and [[stir]] seven times.
 	- Express the oils of a lemon twist over the surface of the drink. Insert a fresh lemon lemon twist and a cherry.
