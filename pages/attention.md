@@ -13,7 +13,7 @@ tags: recipe
 	- 1/4 ounce [[absinthe]]
 	- Garnish: [[[[lemon]] peel]]
 - Instructions
-	- Add absinthe to a chilled cocktail or coupe glass. Swirl to rinse and discard.
+	- Add absinthe to a chilled [[cocktail glass]] or [[coupe]]. Swirl to rinse and discard.
 	- Add remaining ingredients to a mixing glass.
-	- Add ice and stir until chilled.
+	- Add ice and [[stir]] until chilled.
 	- Strain into prepared glass and garnish with a lemon peel.
