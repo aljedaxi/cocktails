@@ -12,3 +12,5 @@
   > To Make a Citric Acid 10% Solution: Combine 10 grams of citric acid powder with 100 grams of water. Whisk to dissolve and bottle.
   > To Make a Malic Acid 10% Solution: Combine 10 grams of malic acid powder with 100 grams of water. Whisk to dissolve and bottle.
 -
+  > To Make a Phosphoric Acid 1.25% Solution: Combine 1.25 grams of food-grade phosphoric acid (usually comes as a 75 percent solution) with 100 grams of water. Whisk to dissolve and bottle.
+- see [[creamy martini]]
