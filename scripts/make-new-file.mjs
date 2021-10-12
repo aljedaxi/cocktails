@@ -126,8 +126,6 @@ Editor's Note
 Lactic Acid 5% Solution:
 Combine 5 grams of lactic acid (usually comes as a 70% solution) with 100 grams of water. Stir to blend, then bottle.
 	`,
-	`
-	`,
 ]
 
 const isString = pipe ([type, ({name}) => name === 'String'])
