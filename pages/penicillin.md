@@ -22,8 +22,8 @@ source: punchdrink.com
 - Instructions
 	- Combine the blended Scotch with the honey-ginger syrup and lemon juice in a cocktail shaker three-quarters filled with ice.
 	- [[Shake]] until chilled.
-	- Strain into a rocks glass filled with one large cube.
+	- Strain into a [[rocks glass]] filled with one large cube.
 	- Top with the Islay Scotch and garnish with candied ginger.
-	- Editor's Note
+- Editor's Note
 	- Honey-Ginger Syrup:
 	- Combine 1 cup of honey with one 6-inch peeled and sliced piece of ginger root with 1 cup of water in a small pot and bring to a boil. Reduce the heat and simmer for 5 minutes. Refrigerate overnight, then strain, discarding the solids.
