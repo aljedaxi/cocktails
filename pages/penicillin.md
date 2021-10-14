@@ -18,10 +18,10 @@ source: punchdrink.com
 	- 3/4 ounce [[honey-ginger syrup]] (see Editor's Note)
 	- 3/4 ounce fresh [[[[lemon]] juice]]
 	- 1/4 ounce [[peated [[Scotch]]]], preferably Laphroaig 10YO
-	- Garnish: candied ginger
+	- Garnish: [[candied ginger]]
 - Instructions
 	- Combine the blended Scotch with the honey-ginger syrup and lemon juice in a cocktail shaker three-quarters filled with ice.
-	- Shake until chilled.
+	- [[Shake]] until chilled.
 	- Strain into a rocks glass filled with one large cube.
 	- Top with the Islay Scotch and garnish with candied ginger.
 	- Editor's Note
