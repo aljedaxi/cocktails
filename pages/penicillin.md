@@ -16,8 +16,8 @@ source: punchdrink.com
 - Ingredients
 	- 2 ounces [[blended [[Scotch]] ]], such as Famous Grouse
 	- 3/4 ounce [[honey-ginger syrup]] (see Editor's Note)
-	- 3/4 ounce fresh lemon juice
-	- 1/4 ounce Islay single-malt Scotch, preferably Laphroaig 10YO
+	- 3/4 ounce fresh [[[[lemon]] juice]]
+	- 1/4 ounce [[peated [[Scotch]]]], preferably Laphroaig 10YO
 	- Garnish: candied ginger
 - Instructions
 	- Combine the blended Scotch with the honey-ginger syrup and lemon juice in a cocktail shaker three-quarters filled with ice.
