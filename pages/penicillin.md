@@ -14,7 +14,7 @@ source: punchdrink.com
   Another measure of the bartending community’s familiarity with the potion: you can often get one at cocktail bars that don’t even have it on the menu. By 2014, the Penicillin was so well known that some young bartenders assumed it was an old classic from way back.
   Reprinted with permission from A Proper Drink by Robert Simonson, copyright © 2016. Published by Ten Speed Press, a division of Penguin Random House.
 - Ingredients
-	- 2 ounces [[blended [[peated [[Scotch]]]] ]], such as Famous Grouse
+	- 2 ounces [[blended [[Scotch]] ]], such as Famous Grouse
 	- 3/4 ounce [[honey-ginger syrup]] (see Editor's Note)
 	- 3/4 ounce fresh lemon juice
 	- 1/4 ounce Islay single-malt Scotch, preferably Laphroaig 10YO
