@@ -15,9 +15,9 @@ source: punchdrink.com
 	- 1/4 ounce [[Campari]]
 	- 1/2 ounce [[ginger syrup]] (2:1, sugar:fresh ginger juice)
 	- 1/2 ounce [[[[yuzu]] or [[lemon [[juice]]]]]]
-	- Garnish: half lemon wheel studded with cloves, ground cinnamon
+	- Garnish: half [[[[lemon]] wheel]] studded with [[cloves]], [[grated [[cinnamon]]]]
 - Instructions
 	- Bring apple cider to a simmer in a medium saucepan.
 	- Stir in Scotch, Campari, ginger syrup, and yuzu juice.
-	- Remove from heat and pour into a heatproof mug or glass.
+	- Remove from heat and pour into a heatproof [[mug]] or glass.
 	- Garnish with a half lemon wheel studded with cloves and a sprinkle of cinnamon.
