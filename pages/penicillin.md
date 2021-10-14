@@ -1,7 +1,7 @@
 ---
 title: Penicillin
-author: Adapted from A Proper Drink by Robert Simonson
-resto: undefined
+author: Sam Ross
+resto: Milk & Honey
 tags: Recipe, Unprocessed, Sour
 source: punchdrink.com
 ---
