@@ -14,7 +14,7 @@ source: punchdrink.com
 	- 3/4 ounce [[peated [[Scotch]]]], preferably BenRiach 10 Year Old Peated Curiositas
 	- 1/4 ounce [[Campari]]
 	- 1/2 ounce [[ginger syrup]] (2:1, sugar:fresh ginger juice)
-	- 1/2 ounce [[[[yuzu]] or [[lemon [[juice]]]]]]
+	- 1/2 ounce [[[[yuzu]] or [[[[lemon]] juice]]]]
 	- Garnish: half [[[[lemon]] wheel]] studded with [[cloves]], [[grated [[cinnamon]]]]
 - Instructions
 	- Bring apple cider to a simmer in a medium saucepan.

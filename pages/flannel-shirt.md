@@ -2,7 +2,7 @@
 title: Flannel Shirt
 author: Jeffrey Morgenthaler
 resto: Clyde Common | Portland
-tags: Recipe, Unprocessed, Sour, Fruity, Strong
+tags: Recipe, Sour, Fruity, Strong
 source: punchdrink.com
 ---
 
@@ -13,12 +13,12 @@ source: punchdrink.com
 	- 1 1/2 ounces [[apple cider]]
 	- 1/2 ounce [[Averna]]
 	- 1/4 ounce [[[[lemon]] juice]]
-	- 1 teaspoon demerara syrup (2:1, demerara sugar:water)
-	- 1/2 teaspoon St. Elizabeth Allspice Dram
-	- 2 dashes Angostura bitters
-	- Garnish: orange peel
+	- 1 teaspoon [[demerara syrup]] (2:1, demerara sugar:water)
+	- 1/2 teaspoon [[St. Elizabeth Allspice Dram]]
+	- 2 dashes [[Angostura [[bitters]]]]
+	- Garnish: [[[[orange]] peel]]
 - Instructions
 	- Add all ingredients to a cocktail shaker.
-	- Add ice and shake until chilled.
-	- Strain into a rocks glass over ice.
+	- Add ice and [[shake]] until chilled.
+	- Strain into a [[rocks glass]] over ice.
 	- Garnish with an orange peel.
