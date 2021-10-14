@@ -2,7 +2,7 @@
 title: Enemy Lines
 author: Jillian Vose
 resto: Death & Co. | New York
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
@@ -14,7 +14,7 @@ source: punchdrink.com
 	- 1 teaspoon cane [[sugar syrup]] (1:1, cane sugar:water)
 	- 4 dashes House [[Peychaud's bitters]] (see Editor's Note)
 	- 1 dash [[Bitter Truth Aromatic Bitters]]
-	- Garnish: lemon twist
+	- Garnish: [[[[lemon]] twist]]
 - Instructions
 	- Combine all ingredients in a mixing glass over ice and [[stir]] until chilled.
 	- Strain into a [[rocks glass]] over a large ice cube.
