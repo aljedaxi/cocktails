@@ -12,10 +12,9 @@ source: punchdrink.com
   * 1 ounce [[rye [[whiskey]]]] , preferably Woody Creek
   * 3/4 ounce [[Braulio]]
   * 3/4 ounce [[Japanese [[whiskey]]]], preferably Toki
-  * 1/2 ounce demerara syrup 1:1
-  * 3 dashes Angostura bitters
-  * Garnish: expressed orange peel
+  * 1/2 ounce [[demerara syrup]] 1:1
+  * 3 dashes [[Angostura [[bitters]]]] 
+  * Garnish: expressed [[[[orange]] peel]]
 - Instructions
   * Combine all ingredients in a double rocks glass over a big ice cube and stir to integrate.
   * Express an orange peel over top of the drink, and garnish with the orange peel.
-  *
