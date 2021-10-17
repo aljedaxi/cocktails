@@ -312,6 +312,43 @@ Directions
     Combine all ingredients in a double rocks glass over a big ice cube and stir to integrate.
     Express an orange peel over top of the drink, and garnish with the orange peel.
 	`,
+	`
+
+French Connection
+Jane Danger, Cienfuegos and Mother of Pearl | New York
+photo: Lizzie Munro
+
+    Share story:
+    Share
+    Tweet
+    106Save
+    Email
+
+    Cocktail Citrusy Fruity
+
+“I really enjoy blanc/bianco vermouth. Mixing it into a cocktail. Drinking it like water in the summer,” says Jane Danger, of Cienfuegos and Mother of Pearl in New York. Here, Danger goes tiki with it, using it in her French Connection, where the vermouth plays nicely with rum to round out an otherwise-bracing combination of bitters, grapes and citrus.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    5 red grapes
+    1/2 ounce cane syrup
+    3/4 ounce fresh lime juice
+    3/4 ounce bianco vermouth, preferably Dolin Blanc
+    1/2 ounce Luxardo Bitter
+    1 1/2 ounce rum, preferably Plantation 3 Star
+
+Garnish: skewered grape wrapped with a thin orange peel, then dipped in 151, set on fire, and extinguished in the drink
+Directions
+
+    Muddle grapes in shaking tin.
+    Combine all ingredients in tin, shake and fine strain into coupe.
+    Garnish with a skewered grape wrapped with a thin orange peel, then dipped in 151, set on fire and extinguished in the drink.
+	`,
 ]
 
 const isString = pipe ([type, ({name}) => name === 'String'])
