@@ -17,6 +17,7 @@ source: punchdrink.com
   * 2 dashes [[orange [[bitters]]]] 
   * Garnish: [[[[orange]] twist]]
 - Instructions
-  * Combine all ingredients in a mixing glass with ice and stir until chilled.
-  * Strain into a chilled coupe glass.
+  * Combine all ingredients in a mixing glass with ice and [[stir]] until chilled.
+  * Strain into a chilled [[coupe]] glass.
   * Express three orange twists over the surface of the drink, discarding the first two and saving the third for garnish.
+- TODO try
