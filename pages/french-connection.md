@@ -2,7 +2,7 @@
 title: French Connection
 author: Jane Danger
 resto: Cienfuegos and Mother of Pearl | New York
-tags: Recipe, Unprocessed, Cocktail, Citrusy, Fruity
+tags: Recipe, Cocktail, Citrusy, Fruity
 source: punchdrink.com
 ---
 
@@ -15,9 +15,8 @@ source: punchdrink.com
   * 3/4 ounce [[bianco [[vermouth]]]] , preferably Dolin Blanc
   * 1/2 ounce [[Luxardo Bitter Bianco]] 
   * 1 1/2 ounce [[rum]] , preferably Plantation 3 Star
-  * Garnish: skewered grape wrapped with a thin orange peel, then dipped in 151, [[set on fire]], and extinguished in the drink
+  * Garnish: skewered grape wrapped with a thin [[[[orange]] peel]] , then dipped in 151, [[set on fire]], and extinguished in the drink
 - Instructions
   * Muddle grapes in shaking tin.
-  * Combine all ingredients in tin, shake and fine strain into coupe.
+  * Combine all ingredients in tin, [[shake]] and fine strain into [[coupe]].
   * Garnish with a skewered grape wrapped with a thin orange peel, then dipped in 151, set on fire and extinguished in the drink.
-  *
