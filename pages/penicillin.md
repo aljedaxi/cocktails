@@ -2,7 +2,7 @@
 title: Penicillin
 author: Sam Ross
 resto: Milk & Honey
-tags: Recipe, Unprocessed, Sour
+tags: Recipe, Sour
 source: punchdrink.com
 ---
 
