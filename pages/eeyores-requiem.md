@@ -12,12 +12,11 @@ source: punchdrink.com
   * 1 1/2 ounces [[Campari]]
   * 1 ounce [[blanc vermouth]], preferably Dolin
   * 1/2 ounce [[London dry [[gin]]]] , preferably Tanqueray
-  * 1/4 ounce Cynar
-  * 1/4 ounce Fernet-Branca
-  * 2 dashes orange bitters
-  * Garnish: orange twist
+  * 1/4 ounce [[Cynar]]
+  * 1/4 ounce [[Fernet-Branca]] 
+  * 2 dashes [[orange [[bitters]]]] 
+  * Garnish: [[[[orange]] twist]]
 - Instructions
   * Combine all ingredients in a mixing glass with ice and stir until chilled.
   * Strain into a chilled coupe glass.
   * Express three orange twists over the surface of the drink, discarding the first two and saving the third for garnish.
-  *
