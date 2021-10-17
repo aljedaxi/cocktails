@@ -1,8 +1,7 @@
 ---
 title: 100-pt Julep
 author: Chris Amirault | Los Angeles
-resto: undefined
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
