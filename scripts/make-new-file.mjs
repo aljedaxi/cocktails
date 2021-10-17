@@ -349,6 +349,70 @@ Directions
     Combine all ingredients in tin, shake and fine strain into coupe.
     Garnish with a skewered grape wrapped with a thin orange peel, then dipped in 151, set on fire and extinguished in the drink.
 	`,
+	`
+Night Or Day Vesper
+The Cooper Lounge | Denver
+photo: Lizzie Munro
+IN PARTNERSHIP WITH
+
+    Share story:
+    Share
+    Tweet
+    232Save
+    Email
+
+At the Denver’s Cooper Lounge, guests can customize their Vesper selection by choosing between either Smogóry Forest or Lake Bartężek from Belvedere Vodka’s Single Estate Rye series. “People get to compare and contrast,” says Brittany Barbery, Assistant General Manager. The gameplan for the classic drink, inspired by James Bond’s drink order in Casino Royale, is simple: Let the base spirit shine. In this instance, the terroir of either vodka selection becomes the focus, with Smogóry Forest lending savoriness and Lake Bartężek offering a fresher, peppery drink.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    2 ounces Belvedere Smogóry Forest or Lake Bartężek vodka
+    1 ounce gin, preferably Plymouth
+    1/2 ounce Cocchi Americano
+
+Garnish: lemon twist
+Directions
+
+    Combine all ingredients in a mixing glass over ice and stir until chilled.
+    Strain into a Martini glass.
+    Garnish with a lemon twist.
+	`,
+	`
+Remember The Grain
+photo: Lizzie Munro
+IN PARTNERSHIP WITH
+
+    Share story:
+    Share
+    Tweet
+    5Save
+    Email
+
+A playful nod to the classic midcentury rye cocktail, Remember The Maine, this drink summons the cherry flavors of sweet vermouth to play against the cocoa hint of the bitters, while Belvedere Vodka’s Smogóry Forest, from the Single Estate Rye series, supplies a velvety texture. The dash of absinthe comes through on the clean, anise-y finish, making for a perfect after-dinner drink that’s light in texture but dessert-like in flavor.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    1 1/2 ounces Belvedere Smogóry Forest vodka
+    1/3 ounce sweet vermouth
+    1 dash absinthe
+    2 dashes chocolate bitters
+
+Garnish: orange twist
+Directions
+
+    Combine all ingredients in a mixing glass over ice and stir until chilled.
+    Strain into a tumbler over ice.
+    Garnish with an orange twist.
+	`,
 ]
 
 const isString = pipe ([type, ({name}) => name === 'String'])
