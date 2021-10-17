@@ -27,8 +27,8 @@ import {
 	upToPenult ,
 	jsonTrace ,
 	trace ,
-} from './util'
-import {file} from './logseq'
+} from './util.mjs'
+import {file} from './logseq.mjs'
 
 export const itemize = s => `* ${s}`
 
