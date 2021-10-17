@@ -22,6 +22,7 @@ const {
 } = unchecked
 import {
 	last,
+	includesAnyOf,
 	penult ,
 	upToPenult ,
 	jsonTrace ,
@@ -29,11 +30,7 @@ import {
 } from './util'
 import {file} from './logseq'
 
-
-
 const itemize = s => `  - ${s}`
-const includesAnyOf = xs => s =>
-	xs.some (subString => s.includes (subString))
 const processPunchIngredients = pipe([
 	splitOn ('\n'),
 	reject (s => s.includes ('Ingredients') || s.includes ('Serving')),
