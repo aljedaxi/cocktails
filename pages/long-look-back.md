@@ -7,11 +7,11 @@ source: punchdrink.com
 ---
 
 - Description
-  Kacie Lambert’s take on the Manhattan leaves vermouth out of the equation. Instead, she builds on a split-base of Japanese and rye whiskeys, then adds herbaceous Braulio amaro, demerara syrup and Angostura bitters.
+  Kacie Lambert’s take on the [[Manhattan]] leaves vermouth out of the equation. Instead, she builds on a split-base of Japanese and rye whiskeys, then adds herbaceous Braulio amaro, demerara syrup and Angostura bitters.
 - Ingredients
-  * 1 ounce rye whiskey, preferably Woody Creek
-  * 3/4 ounce Braulio
-  * 3/4 ounce Japanese whisky, preferably Toki
+  * 1 ounce [[rye [[whiskey]]]] , preferably Woody Creek
+  * 3/4 ounce [[Braulio]]
+  * 3/4 ounce [[Japanese [[whiskey]]]], preferably Toki
   * 1/2 ounce demerara syrup 1:1
   * 3 dashes Angostura bitters
   * Garnish: expressed orange peel
