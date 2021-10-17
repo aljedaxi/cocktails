@@ -30,7 +30,8 @@ import {
 } from './util'
 import {file} from './logseq'
 
-const itemize = s => `  - ${s}`
+export const itemize = s => `* ${s}`
+
 const processPunchIngredients = pipe([
 	splitOn ('\n'),
 	reject (s => s.includes ('Ingredients') || s.includes ('Serving')),
