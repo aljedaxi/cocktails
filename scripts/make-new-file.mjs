@@ -206,6 +206,42 @@ Editor's Note
 
 We believe the Manhattan behaves best with rye (specifically Rittenhouse), even though bourbon has become its de facto base spirit over the years. Carpano Antica is the preferred sweet vermouth, but unfortunately it can be elusive, so in a pinch Dolin, or even Martini & Rossi, will work. If you’re a bourbon fan, Evan Williams is versatile and delivers the sweet simplicity most look for in the spirit. Lastly, Luxardo cherries are a luxury, but if you can find them, plop one in. Otherwise, go for a lemon twist.
 	`,
+	`
+
+Blue Angel Highball
+Masahiro Urushido, Katana Kitten | New York
+photo: Eric Medsker
+
+    Share story:
+    Share
+    Tweet
+    11Save
+    Email
+
+The Blue Angel (aka Angelo Azzurro) is a Roman-born cocktail with a notorious reputation. But that didn’t stop Masa Urushido from transforming this boozy blue club drink from the 1980s into an azure-colored, sessionable highball.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    1 1/2 ounces Japanese gin, preferably Roku
+    1/2 ounce fino sherry
+    1/4 ounce blue Curaçao
+    1/4 ounce orange liqueur, preferably Combier
+    1/2 barspoon maraschino liqueur
+    Thomas Henry Cherry Blossom Tonic (chilled)
+
+Garnish: maraschino cherry, preferably Filthy Cherries
+Directions
+
+    Place an ice spear or a stack of ice cubes in a frozen highball glass or handled beer stein.
+    Add the gin, sherry, blue Curaçao, Combier and maraschino.
+    Top off with chilled tonic water and gently stir.
+    Garnish with a cherry, and serve.
+	`,
 ]
 
 const isString = pipe ([type, ({name}) => name === 'String'])
