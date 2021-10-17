@@ -242,6 +242,76 @@ Directions
     Top off with chilled tonic water and gently stir.
     Garnish with a cherry, and serve.
 	`,
+	`
+Eeyore’s Requiem
+Toby Maloney, Violet Hour | Chicago
+photo: Eric Medsker
+
+    Share story:
+    Share
+    Tweet
+    10Save
+    Email
+
+    Aperitif
+
+Inspired by what he calls “the most bitter character in literature,” Toby Maloney’s Eeyore’s Requiem is a “deep dark Negroni, turned on its head.” The drink starts with a base of bitter complexity by stacking three different amari amped up with aromatic French vermouth and juniper-rich gin. “This drink is an excellent foil to the sweet, bumbling, fruity drinks with very little brain,” says Maloney.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    1 1/2 ounces Campari
+    1 ounce blanc vermouth, preferably Dolin
+    1/2 ounce gin, preferably Tanqueray
+    1/4 ounce Cynar
+    1/4 ounce Fernet-Branca
+    2 dashes orange bitters
+
+Garnish: orange twist
+Directions
+
+    Combine all ingredients in a mixing glass with ice and stir until chilled.
+    Strain into a chilled coupe glass.
+    Express three orange twists over the surface of the drink, discarding the first two and saving the third for garnish.
+	`,
+	`
+Long Look Back
+Kacie Lambert, Stay Gold | New York
+photo: Lizzie Munro
+
+    Share story:
+    Share
+    Tweet
+    56Save
+    Email
+
+    Strong
+
+Kacie Lambert’s take on the Manhattan leaves vermouth out of the equation. Instead, she builds on a split-base of Japanese and rye whiskeys, then adds herbaceous Braulio amaro, demerara syrup and Angostura bitters.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    1 ounce rye whiskey, preferably Woody Creek
+    3/4 ounce Braulio
+    3/4 ounce Japanese whisky, preferably Toki
+    1/2 ounce demerara syrup 1:1
+    3 dashes Angostura bitters
+
+Garnish: expressed orange peel
+Directions
+
+    Combine all ingredients in a double rocks glass over a big ice cube and stir to integrate.
+    Express an orange peel over top of the drink, and garnish with the orange peel.
+	`,
 ]
 
 const isString = pipe ([type, ({name}) => name === 'String'])
