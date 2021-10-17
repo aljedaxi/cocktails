@@ -13,8 +13,8 @@ source: punchdrink.com
   * 1/4 ounce [[dry [[vermouth]]]] 
   * 2 drops 5% lactic acid solution, (see Editor's Note)
 - Instructions
-  * Add all ingredients to a mixing glass, add ice and stir.
-  * Strain into a cocktail glass.
+  * Add all ingredients to a mixing glass, add ice and [[stir]].
+  * Strain into a [[cocktail glass]].
   * Editor's Note
 - Lactic Acid 5% Solution:
   * Combine 5 grams of lactic acid (usually comes as a 70% solution) with 100 grams of water. Stir to blend, then bottle.
