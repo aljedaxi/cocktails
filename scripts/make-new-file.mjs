@@ -20,29 +20,16 @@ const {
 	ifElse,
 	map,
 } = unchecked
-const {
+import {
 	last,
 	penult ,
 	upToPenult ,
 	jsonTrace ,
 	trace ,
-} = './util'
+} from './util'
+import {file} from './logseq'
 
 
-const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => (
-`---
-${Object.entries(insertPlainly).map (([k,v]) => `${k}: ${v}`).join('\n')}
-tags: ${tags.join(', ')}
-source: punchdrink.com
----
-- Description
-${description ?? ''}
-- Ingredients
-${ingredients ?? '  -'}
-- Instructions
-${instructions ?? '  -'}
-`
-)
 
 const itemize = s => `  - ${s}`
 const includesAnyOf = xs => s =>
