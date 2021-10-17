@@ -2,12 +2,12 @@
 title: Blue Angel Highball
 author: Masahiro Urushido
 resto: Katana Kitten | New York
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
 - Description
-  The Blue Angel (aka [[Angelo Azzurro]]) is a Roman-born cocktail with a notorious reputation. But that didn’t stop Masa Urushido from transforming this boozy blue club drink from the 1980s into an azure-colored, sessionable highball.
+  The Blue Angel (aka [[Angelo Azzurro]]) is a Roman-born cocktail with a notorious reputation. But that didn’t stop Masa Urushido from transforming this boozy blue club drink from the 1980s into an azure-colored, sessionable [[highball]].
 - Ingredients
   * 1 1/2 ounces [[Japanese [[gin]]]], preferably Roku
   * 1/2 ounce [[fino [[sherry]]]] 
