@@ -413,6 +413,47 @@ Directions
     Strain into a tumbler over ice.
     Garnish with an orange twist.
 	`,
+	`
+Handsome in Handcuffs
+Megan Cross, Analog at Hutton Hotel Nashville | Nashville, TN
+photo: Luis Garcia
+IN PARTNERSHIP WITH
+
+    Share story:
+    Share
+    Tweet
+    5Save
+    Email
+
+Nasvhille bartender Megan Cross’s version of an El Presidente, the Handsome in Handcuffs replaces the traditional grenadine with strawberry syrup. She says it enhances the “deep molasses and caramel flavors” of the Bacardi 8, which is brightened up with an expressed orange peel.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    1 1/2 ounces rum, preferably Bacardi 8 Year
+    3/4 ounce dry Curaçao
+    3/4 ounce blanc vermouth, preferably Dolin
+    1 teaspoon strawberry syrup
+
+Garnish: expressed orange peel
+Directions
+
+    Combine all ingredients in a mixing glass over ice and stir until chilled.
+    Strain into a rocks glass over a large ice cube.
+    Express the orange peel and discard.
+
+Editor's Note
+
+Editor’s note; Strawberry Syrup:
+1 part juiced fresh strawberries
+1 part sugar, or to taste
+
+Strain strawberry juice through cheese cloth. Mix in sugar.
+	`,
 ]
 
 const isString = pipe ([type, ({name}) => name === 'String'])
