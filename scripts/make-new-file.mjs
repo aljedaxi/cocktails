@@ -20,12 +20,14 @@ const {
 	ifElse,
 	map,
 } = unchecked
+const {
+	last,
+	penult ,
+	upToPenult ,
+	jsonTrace ,
+	trace ,
+} = './util'
 
-const last = xs => xs[xs.length - 1]
-const penult = xs => xs[xs.length - 2]
-const upToPenult = xs => xs.slice (0, -2)
-const jsonTrace = s => {console.log(JSON.stringify(s,undefined,2)); return s;};
-const trace = s => {console.log(s); return s;};
 
 const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => (
 `---
