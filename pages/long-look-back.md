@@ -16,5 +16,5 @@ source: punchdrink.com
   * 3 dashes [[Angostura [[bitters]]]] 
   * Garnish: expressed [[[[orange]] peel]]
 - Instructions
-  * Combine all ingredients in a double rocks glass over a big ice cube and stir to integrate.
+  * Combine all ingredients in a [[double rocks glass]] over a big ice cube and [[stir]] to integrate.
   * Express an orange peel over top of the drink, and garnish with the orange peel.
