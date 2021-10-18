@@ -19,6 +19,5 @@ source: punchdrink.com
   * Add ice and stir well.
   * Strain into a chilled coupe or cocktail glass.
   * Garnish with a brandied cherry or a lemon twist.
-  * Editor's Note
-  * We believe the Manhattan behaves best with rye (specifically Rittenhouse), even though bourbon has become its de facto base spirit over the years. Carpano Antica is the preferred sweet vermouth, but unfortunately it can be elusive, so in a pinch Dolin, or even Martini & Rossi, will work. If you’re a bourbon fan, Evan Williams is versatile and delivers the sweet simplicity most look for in the spirit. Lastly, Luxardo cherries are a luxury, but if you can find them, plop one in. Otherwise, go for a lemon twist.
-  *
+- Editor's Note
+  We believe the Manhattan behaves best with rye (specifically Rittenhouse), even though bourbon has become its de facto base spirit over the years. Carpano Antica is the preferred sweet vermouth, but unfortunately it can be elusive, so in a pinch Dolin, or even Martini & Rossi, will work. If you’re a bourbon fan, Evan Williams is versatile and delivers the sweet simplicity most look for in the spirit. Lastly, Luxardo cherries are a luxury, but if you can find them, plop one in. Otherwise, go for a lemon twist.
