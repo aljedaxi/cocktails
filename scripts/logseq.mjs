@@ -4,7 +4,7 @@ const {pipe, joinWith, Pair, map} = S
 const section = s => `- ${s}`
 export const lItem = s => `* ${s}`
 
-const makeMainText = ({description, ingredient, instructions}) => 
+const makeMainText = ({description, ingredients, instructions}) => 
 	joinWith ('\n') ([
 		section ('Description'),
 		description ?? '',
