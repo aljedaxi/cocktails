@@ -13,8 +13,7 @@ const makeMainText = ({description, ingredient, instructions}) =>
 
 const makeMeta = o => `---
 ${Object.entries(o).map (([k,v]) => `${k}: ${v}`).join('\n')}
----
-`
+---`
 
 export const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => (
 `
@@ -39,9 +38,7 @@ export const markDown = ({path, tags}) => pipe([
 		})
 	}),
 	({metadata, text, fileName}) => Pair (fileName) ([
-		`---`,
-		Object.entries(metadata).map(([k,v]) => `${k}: ${v}`).join('\n'),
-		`---`,
+		makeMeta (metadata),
 		text,
 	].join('\n')),
 ])
