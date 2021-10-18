@@ -24,7 +24,7 @@ const getWhatever = get (K (true))
 const parseRecipe = ({ recipeIngredient, recipeInstructions, mainEntityOfPage, name, author, description, }) => ({
 	ingredients: recipeIngredient,
 	instructions: map (prop ('text')) (recipeInstructions),
-	source: getWhatever ('@id') (mainEntityOfPage),
+	source: fromMaybe ('') (getWhatever ('@id') (mainEntityOfPage)),
 	name, description, author: author.name
 })
 

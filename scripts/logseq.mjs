@@ -26,7 +26,7 @@ export const markDown = ({path, tags}) => pipe([
 		metadata: {
 			title: name, 
 			author, 
-			source: fromMaybe ('') (source),
+			source,
 			tags: tags.join(', ')
 		},
 		text: makeMainText ({
