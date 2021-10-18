@@ -2,7 +2,7 @@
 title: Eeyore’s Requiem
 author: Toby Maloney
 resto: Violet Hour | Chicago
-tags: Recipe, Unprocessed, Aperitif
+tags: Recipe, Aperitif
 source: punchdrink.com
 ---
 
