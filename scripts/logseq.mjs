@@ -11,13 +11,16 @@ const makeMainText = ({description, ingredient, instructions}) =>
 		instructions ?? '  -',
 	])
 
-export const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => (
-`---
-${Object.entries(insertPlainly).map (([k,v]) => `${k}: ${v}`).join('\n')}
-tags: ${tags.join(', ')}
-source: punchdrink.com
+const makeMeta = o => `---
+${Object.entries(o).map (([k,v]) => `${k}: ${v}`).join('\n')}
 ---
-`makeMainText ({description, ingredients, instructions})`
+`
+
+export const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => (
+`
+${makeMeta ({...insertPlainly, tags: tags.join(', '), source: 'punchdrink.com'})}
+${makeMainText ({description, ingredients, instructions})}
+`
 )
 
 export const markDown = ({path, tags}) => pipe([
