@@ -28,9 +28,9 @@ import {
 	jsonTrace ,
 	trace ,
 } from './util.mjs'
-import {file} from './logseq.mjs'
+import {file, lItem} from './logseq.mjs'
 
-export const itemize = s => `* ${s}`
+const itemize = lItem
 
 const processPunchIngredients = pipe([
 	splitOn ('\n'),

@@ -1,3 +1,6 @@
+const section = s => `- ${s}`
+const lItem = s => `  - ${s}`
+
 export const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => (
 `---
 ${Object.entries(insertPlainly).map (([k,v]) => `${k}: ${v}`).join('\n')}
@@ -13,8 +16,6 @@ ${instructions ?? '  -'}
 `
 )
 
-const section = s => `- ${s}`
-const lItem = s => `  - ${s}`
 export const markDown = ({path, tags}) => pipe([
 	({name, author, source, ingredients, instructions, description}) => ({
 		fileName: `${path}${name.replace(/\s/g, '-')}.md`,
