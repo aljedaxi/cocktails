@@ -31,6 +31,7 @@ const parseRecipe = ({ recipeIngredient, recipeInstructions, mainEntityOfPage, n
 
 const isRecipe = pipe([ o => o['@type'], x => x?.includes('Recipe') ?? false ])
 const parseByType = pipe([
+	trace,
 	o => isRecipe (o) ? Just(o) : find (x => x['@type'] === 'Recipe') (o['@graph']),
 	map (parseRecipe),
 	maybeToEither ('couldn\'t find a recipe in here')

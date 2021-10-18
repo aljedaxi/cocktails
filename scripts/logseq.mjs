@@ -1,4 +1,4 @@
-import {S} from './util'
+import {S} from './util.mjs'
 const {pipe, joinWith, Pair} = S
 
 const section = s => `- ${s}`
