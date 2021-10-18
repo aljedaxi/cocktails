@@ -3,6 +3,7 @@ import {env as flutureEnv} from 'fluture-sanctuary-types'
 import {encaseP, fork, chain as chainF, resolve, reject} from 'fluture'
 import fetchP from 'node-fetch'
 import {readFile as readFileP, writeFile as writeFileP} from 'fs/promises'
+import {markDown} from './logseq.mjs'
 
 const S = sanctuary.create ({checkTypes: true, env: sanctuary.env.concat (flutureEnv)})
 const {
@@ -27,33 +28,6 @@ const parseRecipe = ({ recipeIngredient, recipeInstructions, mainEntityOfPage, n
 	name, description, author: author.name
 })
 
-const section = s => `- ${s}`
-const lItem = s => `  - ${s}`
-const markDown = ({path, tags}) => pipe([
-	({name, author, source, ingredients, instructions, description}) => ({
-		fileName: `${path}${name.replace(/\s/g, '-')}.md`,
-		metadata: {
-			title: name, 
-			author, 
-			source: fromMaybe ('') (source),
-			tags: tags.join(', ')
-		},
-		text: joinWith ('\n') ([
-			section ('Description'),
-			description,
-			section ('Ingredients'),
-			...map (lItem) (ingredients),
-			section ('Steps'),
-			...map (lItem) (instructions),
-		])
-	}),
-	({metadata, text, fileName}) => Pair (fileName) ([
-		`---`,
-		Object.entries(metadata).map(([k,v]) => `${k}: ${v}`).join('\n'),
-		`---`,
-		text,
-	].join('\n')),
-])
 
 const isRecipe = pipe([ o => o['@type'], x => x?.includes('Recipe') ?? false ])
 const parseByType = pipe([
