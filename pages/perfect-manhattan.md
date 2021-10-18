@@ -2,7 +2,7 @@
 title: Perfect Manhattan
 author: The classic mixed with sweet and dry vermouth.
 resto: undefined
-tags: Recipe, Unprocessed, Cocktail, Strong
+tags: Recipe, Cocktail, Strong
 source: punchdrink.com
 ---
 
