@@ -1,19 +1,23 @@
 const section = s => `- ${s}`
 export const lItem = s => `* ${s}`
 
+const makeMainText = ({description, ingredient, instructions}) => 
+	joinWith ('\n') ([
+		section ('Description'),
+		description ?? '',
+		section ('Ingredients'),
+		ingredients ?? '  -',
+		section ('Instructions'),
+		instructions ?? '  -',
+	])
+
 export const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => (
 `---
 ${Object.entries(insertPlainly).map (([k,v]) => `${k}: ${v}`).join('\n')}
 tags: ${tags.join(', ')}
 source: punchdrink.com
 ---
-- Description
-${description ?? ''}
-- Ingredients
-${ingredients ?? '  -'}
-- Instructions
-${instructions ?? '  -'}
-`
+`makeMainText ({description, ingredients, instructions})`
 )
 
 export const markDown = ({path, tags}) => pipe([
@@ -25,14 +29,11 @@ export const markDown = ({path, tags}) => pipe([
 			source: fromMaybe ('') (source),
 			tags: tags.join(', ')
 		},
-		text: joinWith ('\n') ([
-			section ('Description'),
+		text: makeMainText ({
 			description,
-			section ('Ingredients'),
-			...map (lItem) (ingredients),
-			section ('Steps'),
-			...map (lItem) (instructions),
-		])
+			ingredients: joinWith ('\n') (map (lItem) (ingredients)),
+			instructions: joinWith ('\n') (map (lItem) (instructions)),
+		})
 	}),
 	({metadata, text, fileName}) => Pair (fileName) ([
 		`---`,
