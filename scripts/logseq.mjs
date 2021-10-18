@@ -29,7 +29,7 @@ export const markDown = ({path, tags}) => pipe([
 			title: name, 
 			author, 
 			source,
-			tags: tags.join(', ')
+			tags: tags.join(', '),
 		},
 		text: makeMainText ({
 			description,
