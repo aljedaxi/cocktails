@@ -1,5 +1,5 @@
 const section = s => `- ${s}`
-const lItem = s => `  - ${s}`
+export const lItem = s => `* ${s}`
 
 export const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => (
 `---
