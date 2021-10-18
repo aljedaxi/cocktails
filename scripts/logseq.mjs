@@ -1,5 +1,5 @@
 import {S} from './util.mjs'
-const {pipe, joinWith, Pair} = S
+const {pipe, joinWith, Pair, map} = S
 
 const section = s => `- ${s}`
 export const lItem = s => `* ${s}`
