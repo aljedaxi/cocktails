@@ -1,3 +1,7 @@
+import {env as flutureEnv} from 'fluture-sanctuary-types'
+import sanctuary from 'sanctuary'
+export const S = sanctuary.create ({checkTypes: true, env: sanctuary.env.concat (flutureEnv)})
+
 export const last = xs => xs[xs.length - 1]
 export const penult = xs => xs[xs.length - 2]
 export const upToPenult = xs => xs.slice (0, -2)

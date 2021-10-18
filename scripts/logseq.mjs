@@ -1,3 +1,6 @@
+import {S} from './util'
+const {pipe, joinWith, Pair} = S
+
 const section = s => `- ${s}`
 export const lItem = s => `* ${s}`
 
