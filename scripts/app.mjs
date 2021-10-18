@@ -31,6 +31,7 @@ const findShit = () =>
 	logFork (either (reject) (pair (findIngredientsForRecipesWithNames)) (lift2 (Pair) (path) (input)))
 
 const recipes = [ 
+	'https://www.liquor.com/dreamy-dorini-smoking-martini-cocktail-recipe-5203959?utm_campaign=liquor_consumer&utm_medium=email&utm_source=cn_nl&utm_content=25329933&utm_term='
 ]
 
 recipes.forEach(readInput)
