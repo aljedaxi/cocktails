@@ -10,7 +10,7 @@ tags: Recipe
 - Ingredients
 	- 1 1/2 ounces [[gin]]
 	- 1 1/2 ounces [[sweet [[vermouth]]]]
-	- 2 dashes [[Fernet-Branca]]
+	- 2 dashes [[[[Fernet]]-Branca]]
 	- Garnish: orange twist
 - Steps
 	- Add the gin, sweet vermouth and Fernet-Branca into a mixing glass with ice and stir until well-chilled.

@@ -13,7 +13,7 @@ source: punchdrink.com
   * 1 ounce [[blanc vermouth]], preferably Dolin
   * 1/2 ounce [[London dry [[gin]]]] , preferably Tanqueray
   * 1/4 ounce [[Cynar]]
-  * 1/4 ounce [[Fernet-Branca]] 
+  * 1/4 ounce [[[[Fernet]]-Branca]] 
   * 2 dashes [[orange [[bitters]]]] 
   * Garnish: [[[[orange]] twist]]
 - Instructions
