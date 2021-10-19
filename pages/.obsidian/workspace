@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "4bf60e165740e97a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e1e0c8d07b3c50e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a2289a3333856ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de0126ebe60f156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6020a3e4ab0ef643",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2faaa5594a9af2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a2b52d5a83fa8ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "da491dd971ff9acb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ed07dc42afda03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4e1e0c8d07b3c50e",
+  "lastOpenFiles": [
+    "white [[rum]].md",
+    "contents.md"
+  ]
+}
