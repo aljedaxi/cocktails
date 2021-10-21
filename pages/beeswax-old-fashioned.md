@@ -1,4 +1,3 @@
-
 ---
 title: Beeswax Old Fashioned
 author: White Lyan | London
