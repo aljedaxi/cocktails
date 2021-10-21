@@ -1,0 +1,3 @@
+---
+alias: collins glass
+---
