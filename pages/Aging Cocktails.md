@@ -7,12 +7,11 @@
   > * Wine bottles with corks, or a glass demijohn with bung
   > *  Funnel
   > *  Labels
-  > *  Cambro, for measuring
-- The Rules
-- Make sure there’s enough ABV. To ensure that your liquid is still going to at least taste good by the time you drink it, it’s very handy to keep the ABV above that at which it will easily oxidize. We recommend a minimum of 18 percent.
-- Make sure it tastes good to start with. If it doesn’t taste good when you put it in, it’s probably not going to taste good when you take it out!
-- Tread lightly with fresh ingredients. If you follow the minimal ABV advice, you can include fresh juices, like lemon or watermelon. But be advised that you will end up with sediment (this can be strained out) and that volatile compounds in the juice can sometimes lead to off aromas.
-- Sterilize your equipment. Use a sterilizing powder or solution and a bottle brush to keep everything fresh, following the instructions provided.
+  > *  Cambro, for measuring 
+  > The Rules 
+  > * Make sure there’s enough ABV. To ensure that your liquid is still going to at least taste good by the time you drink it, it’s very handy to keep the ABV above that at which it will easily oxidize. We recommend a minimum of 18 percent. 
+  > * Make sure it tastes good to start with. If it doesn’t taste good when you put it in, it’s probably not going to taste good when you take it out! 
+  > * Tread lightly with fresh ingredients. If you follow the minimal ABV advice, you can include fresh juices, like lemon or watermelon. But be advised that you will end up with sediment (this can be strained out) and that volatile compounds in the juice can sometimes lead to off aromas.
 - Age in different containers. Consider splitting your batch between glass, fermentation tubs and wood (if using the latter, make sure it’s well seasoned). You can even fill one glass bottle to the top and the other three-quarters-full to see how oxygen impacts each vessel in different ways.
 - Age in different places. Temperature, exposure to sunlight and humidity all impact flavor development. Higher levels of the above tending to provide a more unstable, volatile (but quicker and more obvious!) change in your liquid.
 - Have a plan of how long to leave it. It’s no use going through all of this effort and not leaving your project long enough for aging to have a real impact. We’d suggest splitting your batch up to be tasted in stages. Try each in one month, three months, nine months and two years.
