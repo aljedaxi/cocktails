@@ -2,7 +2,7 @@
 title: Pillow Manhattan
 book: Good Together: Drink & Feast with Mr. Lyan & Friends
 author: Ryan Chetiyawardana
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
