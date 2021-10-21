@@ -28,3 +28,4 @@
 - Recipes:
 	- [[Pillow Manhattan]]
 	- [[Beeswax Old Fashioned]]
+	- [[Nuked Negroni]]

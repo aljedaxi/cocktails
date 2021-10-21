@@ -1,6 +1,6 @@
 ---
 title: Nuked Negroni
-book: Good Things to Drink with Mr Lyan and Friends
+book: Good Things to Drink with [[Mr [[Lyan]]]] and Friends
 author: undefined
 tags: Recipe, Cocktail, Bitter, Strong
 source: punchdrink.com
