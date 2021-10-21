@@ -24,3 +24,7 @@
   > *  Label each container individually with the name, the date and what’s inside.
   > *  Write down the original recipe in a diary. Every time you open a new bottle, make the original drink and note down how the flavor of the aged version differs, along with the conditions of its aging.
   > *  Set reminders in your calendar and hope for the best.
+  [[source](https://punchdrink.com/articles/science-way-better-aged-cocktail-recipe)]
+- Recipes:
+	- [[Pillow Manhattan]]
+	-
