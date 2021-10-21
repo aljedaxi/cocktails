@@ -1,8 +1,8 @@
 ---
 title: Dreamy Dorini Smoking Martini
-author: undefined
+author: Liquor.com
 source: https://www.liquor.com/dreamy-dorini-smoking-martini-cocktail-recipe-5203959
-tags: Recipe, unprocessed
+tags: Recipe
 ---
 
 - Description
