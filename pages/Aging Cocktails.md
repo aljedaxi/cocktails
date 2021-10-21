@@ -4,10 +4,10 @@
 -
   > Below is a quick guide to aging cocktails, whether it’s a brooding whisky number, a milk punch or a Martini.
   > Supplies 
-  > ** Wine bottles with corks, or a glass demijohn with bung
-    Funnel
-    Labels
-    Cambro, for measuring
+  > * Wine bottles with corks, or a glass demijohn with bung
+  > *  Funnel
+  > *  Labels
+  > *  Cambro, for measuring
 - The Rules
 - Make sure there’s enough ABV. To ensure that your liquid is still going to at least taste good by the time you drink it, it’s very handy to keep the ABV above that at which it will easily oxidize. We recommend a minimum of 18 percent.
 - Make sure it tastes good to start with. If it doesn’t taste good when you put it in, it’s probably not going to taste good when you take it out!
