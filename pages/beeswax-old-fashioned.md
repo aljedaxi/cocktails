@@ -12,12 +12,11 @@ source: punchdrink.com
 - Ingredients
   * 17 ounces [[lightly peated Scotch]]
   * 2 3/4 ounces [[rich [[simple syrup]]]] (2:1, sugar:water)
-  * 1/4 ounce honey
-  * 2 ounces water
-  * 18 dashes Angostura bitters
-  * 12 dashes Peychaud's bitters
+  * 1/4 ounce [[honey]] 
+  * 2 ounces [[water]]
+  * 18 dashes [[Angostura [[bitters]]]] 
+  * 12 dashes [[Peychaud's bitters]]
 - Instructions
   * Line an empty 750ml or similar sized bottle with beeswax (see "wax-infusions at home").
   * Combine all ingredients in the bottle and allow them to sit at room temperature for 1 to 2 weeks.
   * Serve the drink straight from the bottle over an ice cube in a rocks glass.
-  *
