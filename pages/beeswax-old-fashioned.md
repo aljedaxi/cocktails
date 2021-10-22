@@ -1,6 +1,6 @@
 ---
 title: Beeswax Old Fashioned
-author: White [[Lyan]] | London
+author: [[White [[Lyan]]]] | London
 resto: UK
 tags: Recipe
 source: punchdrink.com
