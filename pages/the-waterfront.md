@@ -1,4 +1,3 @@
-
 ---
 title: The Waterfront
 author: Damon Boelte

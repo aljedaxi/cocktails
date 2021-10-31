@@ -1,4 +1,3 @@
-
 ---
 title: Vampire’s Kiss
 author: Robby Dow and Ally Marrone
