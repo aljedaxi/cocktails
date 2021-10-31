@@ -18,12 +18,10 @@ const makeMeta = o => `---
 ${Object.entries(o).map (([k,v]) => `${k}: ${v}`).join('\n')}
 ---`
 
-export const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => (
-`
-${makeMeta ({...insertPlainly, tags: tags.join(', '), source: 'punchdrink.com'})}
-${makeMainText ({description, ingredients, instructions})}
-`
-)
+export const file = ({tags, ...insertPlainly}) => ({description, ingredients, instructions}) => [
+makeMeta ({...insertPlainly, tags: tags.join(', '), source: 'punchdrink.com'}),
+makeMainText ({description, ingredients, instructions}),
+].join ('\n')
 
 export const markDown = ({path, tags}) => pipe([
 	({name, author, source, ingredients, instructions, description}) => ({
