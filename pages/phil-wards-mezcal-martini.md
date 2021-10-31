@@ -1,4 +1,3 @@
-
 ---
 title: Phil Ward’s Mezcal Martini
 author: Phil Ward | Brooklyn
