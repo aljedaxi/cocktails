@@ -234,6 +234,76 @@ Directions
     Strain into a chilled coupe or cocktail glass.
     Garnish with an orange peel.
 	`,
+	`
+
+Phil Ward’s Mezcal Martini
+Phil Ward | Brooklyn, NY
+
+    Share story:
+    Share
+    Tweet
+    3Save
+    Email
+
+Riffing on an early Martini formula, Phil Ward tames the mezcal base with the citric notes of orange bitters and a grapefruit twist.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    2 ounces mezcal
+    1 ounce sweet vermouth, preferably Carpano Antica
+    2 dashes orange bitters
+
+Garnish: grapefruit twist
+Directions
+
+    Combine all ingredients in a mixing glass filled with ice and stir until chilled.
+    Strain into a chilled coupe.
+    Garnish with a grapefruit twist.
+
+`,
+	`
+
+Mexi-Gin Martini
+Phil Ward | Brooklyn, NY
+
+    Share story:
+    Share
+    Tweet
+    Save
+    Email
+
+Residing somewhere between a Martini and a Margarita, Phil Ward’s Mexi-Gin Martini combines the sweeter, lower proof crema de mezcal with the expected gin and dry vermouth. Ward recommends either leaving the drink ungarnished or adding a not-too-spicy pickled pepper.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    2 ounces gin, preferably Plymouth
+    3/4 ounce dry vermouth, preferably Dolin
+    1/4 ounce "Mexi" Batch (see Editor's Note)
+    2 dashes celery bitters
+
+Directions
+
+    Combine all ingredients in a mixing glass filled with ice.
+    Stir until chilled.
+    Strain into a chilled coupe glass.
+
+Editor's Note
+
+"Mexi" Batch
+Combine equal parts crema de mezcal (preferably Del Maguey), yellow Chartreuse and jalapeño-infused tequila.
+
+To make the infused tequila, roughly chop 4 jalapeño peppers and add them to a 750-ml bottle of tequila and let sit for 15-20 minutes before straining out the solids.
+`,
 ]
 
 await Promise.all (
