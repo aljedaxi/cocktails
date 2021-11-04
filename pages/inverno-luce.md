@@ -7,7 +7,7 @@ source: punchdrink.com
 - Description
 - Ingredients
 	- 1 3/4 ounces [[Amaro Sibona]]
-	- 3/4 ounce [[single malt scotch [[whisky]]]], preferably [[Glenlivet 12-Year]]
+	- 3/4 ounce [[single malt scotch [[whiskey]]]], preferably [[Glenlivet 12-Year]]
 	- 1/2 ounce [[gin]], preferably St. George Terroir
 	- Garnish: [[[[orange]] twist]]
 - Instructions
