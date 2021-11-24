@@ -2,7 +2,7 @@
 title: The Waterfront
 author: Damon Boelte
 resto: Prime Meats | Brooklyn
-tags: Recipe, Unprocessed, Bitter
+tags: Recipe, Bitter
 source: punchdrink.com
 ---
 
