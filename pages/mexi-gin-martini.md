@@ -2,7 +2,7 @@
 title: Mexi-Gin Martini
 author: Phil Ward | Brooklyn
 resto: NY
-tags: Recipe, Unprocessed
+tags: Recipe
 source: punchdrink.com
 ---
 
