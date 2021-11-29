@@ -26,7 +26,8 @@ source: punchdrink.com
     * 0.15 ounce [[Angostura [[bitters]]]] 
     * 0.15 ounce [[orange [[bitters]]]] , preferably Regans'
     * 4.3 ounces [[mineral water]] 
-    * 1/4 ounce gomme syrup
+    * 0.15 ounce gomme syrup
+    * (0.08 sugar)
 - Instructions
   * Combine all ingredients together in a jug.
   * If using the water bath method, seal the liquid into bags and cook in a sous vide machine set at 100 Fahrenheit for 2 hours. Cool, then store the drink in the refrigerator.
