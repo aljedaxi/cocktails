@@ -19,13 +19,13 @@ source: punchdrink.com
     * 7 ounces [[mineral water]] 
     * 1/4 ounce gomme syrup 
   * Yield: 1 460-milliliter bottle
-    * 3.68 ounces [[bourbon]] 
-    * 3.68 ounces [[rye [[whiskey]]]] 
+    * 3.7 ounces [[bourbon]] 
+    * 3.7 ounces [[rye [[whiskey]]]] 
     * 3.1 ounces [[sweet [[vermouth]]]], preferably Cocchi Vermouth di Torino
-    * 1 ounce [[Punt e Mes]]
-    * 1/4 ounce [[Angostura [[bitters]]]] 
-    * 1/4 ounce [[orange [[bitters]]]] , preferably Regans'
-    * 7 ounces [[mineral water]] 
+    * 0.6 ounce [[Punt e Mes]]
+    * 0.15 ounce [[Angostura [[bitters]]]] 
+    * 0.15 ounce [[orange [[bitters]]]] , preferably Regans'
+    * 4.3 ounces [[mineral water]] 
     * 1/4 ounce gomme syrup
 - Instructions
   * Combine all ingredients together in a jug.
