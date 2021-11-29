@@ -148,7 +148,8 @@ Directions
 
     Combine all ingredients in a mixing glass over ice and stir until chilled.
     Strain into a chilled coupe or cocktail glass.
-    Garnish with a maraschino cherry.	
+    Garnish with a maraschino cherry.	`,
+
 ]
 
 await Promise.all (
