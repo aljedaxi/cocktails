@@ -1,3 +1,7 @@
+---
+alias: wax-wash
+---
+
 -
   > Wax-Washing at Home 
   
