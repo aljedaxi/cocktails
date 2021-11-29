@@ -7,7 +7,7 @@ source: punchdrink.com
 ---
 
 - Description
-  This drink can be done one of two ways, either by aging for one month to two years in glass or, if you’re short on time, for two hours in a 100-degree Fahrenheit water bath. The water bath helps to “soften” the Manhattan and produce an effect similar to the initial marrying you’ll get from aging. If you’re feeling really adventurous you could line the inside of your bottle with beeswax to add another layer of complexity.
+  This drink can be done one of two ways, either by aging for one month to two years in glass or, if you’re short on time, for two hours in a 100-degree Fahrenheit water bath. The water bath helps to “soften” the Manhattan and produce an effect similar to the initial marrying you’ll get from aging. If you’re feeling really adventurous you could line the inside of your bottle with beeswax ([[wax-washing]]) to add another layer of complexity.
 - Ingredients
   * Yield: 1 750-milliliter bottle
   * 6 ounces [[bourbon]] 
