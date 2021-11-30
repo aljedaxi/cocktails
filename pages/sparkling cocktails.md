@@ -39,3 +39,9 @@
   * ½ cup frozen berries
   * 2 lemon slices
   * 3 basil leaves
+- Sparkling Pear Cocktail
+  * 1 cup pear juice
+  * ½ pear, sliced
+  * 2 oz. vodka
+  * 2 rosemary sprigs
+  Carbonate on 4
