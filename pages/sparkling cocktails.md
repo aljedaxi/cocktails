@@ -19,4 +19,19 @@
   *    1 cup of ginger beer
   *    ½ cup of ice
   Add vodka, juice of ½ of the grapefruit, 2 slices of grapefruit, ginger beer and ice to your Spärkel bottle. Top off with water to 1” below fill line. Carbonate on desired level.
--
+- Savoury and Spice Whiskey Lemonade
+  *     6 oz Irish Whiskey
+  *    6 dashes Cinnamon Bitters
+  *    1.5 oz Lemon Juice
+  *    1/3 cup Honey Syrup 1:1*
+  *    1 cup Water
+  *    4 Lemon Wheels
+  *    8 thinly sliced ginger slices
+  *    ½ pinch Saffron
+  *    1 Cinnamon Sticks
+  *    1 handful of ice cubes 
+  Instructions:
+- In an empty teabag, add your ginger slices and saffron.
+    Add teabag to your Spärkel bottle, 4 lemon wheels, and a handful of ice cubes.
+    Add the rest of the ingredients (break cinnamon stick in half). Close lid. Place Spärkel bottle to the machine, and set the machine to level 3.
+    Pour cocktail over fresh ice and stir with additional cinnamon stick.
