@@ -7,11 +7,15 @@
   * Water to fill line ⁣
   
   Carbonate on level 4
--
+- Pomegranate Rosemary Gin Sparkler
   * 1 cup pomegranate juice⁣⁣
   * 2 rosemary sprigs⁣⁣
-    2 oz gin (optional)⁣⁣
-    Water to 1” below fill line⁣⁣
-- Pomegranate Rosemary Gin Sparkler
-- Bursting with flavour and colour, this sweet, tart and earthly cocktail is sure to brighten your day!⁣⁣
-- To Make: Spärkel on level 4 and pour over ice⁣⁣!
+  * 2 oz gin (optional)⁣⁣
+  * Water to 1” below fill line⁣⁣ 
+  Spärkel on level 4 and pour over ice⁣⁣!
+- Grapefruit Moscow Mule
+  * 3 oz. vodka
+      1 grapefruit
+      1 cup of ginger beer
+      ½ cup of ice
+  *
