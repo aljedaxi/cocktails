@@ -120,6 +120,35 @@ const processString = pipe ([
 ])
 
 const punches = [
+	`
+Midnight Marauder
+Joaquín Simó, Pouring Ribbons | New York
+photo: Lizzie Munro
+
+    Share story:
+    Share
+    Tweet
+    64Save
+    Email 
+
+In Joaquín Simó‘s spin on the classic Negroni, smoky mezcal replaces the usual piney gin, while gentian-bittered Bonal subs in for the traditional sweet vermouth and Cynar, an artichoke-driven amaro, takes the place of the expected Campari.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    1 ounce mezcal, preferably Del Maguey Vida
+    1 ounce Bonal
+    1 ounce Cynar
+    1 dash Bittermen's Mole Bitters
+
+Directions
+
+    Combine all ingredients in a mixing glass over ice and stir until chilled.
+    Strain into a chilled coupe or cocktail glass.`
 ]
 
 await Promise.all (
