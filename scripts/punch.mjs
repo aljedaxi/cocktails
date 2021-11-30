@@ -382,6 +382,129 @@ To a jug, add the breakfast and mint teas and the chopped chipotle pepper. Add i
 
 Citric Acid 10% Solution:
 Combine 10 grams of citric acid powder with 100 grams of water. Whisk to dissolve and bottle.`, `
+Menta
+Angelos Bafas, Soma | London
+
+    Share story:
+    Share
+    Tweet
+    Email
+
+At Soma in London, the cocktail menu features a riff on the classic Mojito called the Menta, in which dilution is added via mint-infused water, while a mint cordial boosts the drink’s minty character, and the whole thing gets carbonated in an iSi whipped cream dispenser.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    1 1/2 ounces rhum agricole
+    1/2 ounce mint cordial (see Editor's Note)
+    2 1/2 ounces mint-infused water (see Editor's Note)
+    1 ounce filtered water
+    2 grams sugar
+    2 grams citric acid
+    1 gram vanilla sugar
+
+Garnish: lime wedge, lime peel or fresh mint sprig
+Directions
+
+    Add all the ingredients to a mixing glass. Stir to dissolve the solids into the liquids, then refrigerate for 30 minutes (or keep in the freezer for 10 to 15 minutes).
+    Pour the blend into the iSi whipper and charge with one CO2 cartridge. De-gas by pressing the trigger valve, then charge again with one more CO2 cartridge. Shake vigorously, then store in the fridge for a couple of hours.
+    De-gas again, then unscrew the top before pouring over ice in a highball glass. Garnish with a lime wedge, lime peel or fresh mint sprig.
+
+Editor's Note
+
+Mint Cordial
+Mix 20 grams fresh mint into 500 grams water, and let steep for up to 24 hours. After infusing the mint tea, discard the leaves, then stir to dissolve 200 grams sugar and 2 grams citric acid powder. Store for up to 2 weeks.
+
+Mint-Infused Water
+Infuse 500 grams water with 10 grams fresh mint for 18 hours in the fridge. Strain the mint and bottle the water.`, `
+
+Tropical Highball
+Patrick Abalos, Night Shift | Houston
+
+    Share story:
+    Share
+    Tweet
+    Email
+
+Patrick Abalos, managing partner at Night Shift in Houston, notes that the iSi whipper is ready-made for research and development. In fact, it’s what he used to workshop the Scotch-based Tropical Highball, before scaling it up for the bar’s draft program as part of an early menu. “For R&D at a bar, the iSi whipper is great for single batches,” he explains. To make more than a single serving, see Editor’s Note.
+
+    Print
+    Save
+
+Ingredients
+
+Serving: 1
+
+    1 1/2 ounces Scotch, preferably Talisker 10
+    1 1/4 ounce tropical highball cordial (see Editor's Note)
+    4 ounces water
+
+Directions
+
+    Combine all ingredients in an iSi whipper. Give a stir, then charge with one CO2 cartridge. Shake the canister, then place in an ice bath for 15 minutes.
+    Remove from ice and purge the whipper (i.e., press the valve to release excess gas). Fill a 10-ounce Collins or highball glass with ice. Unscrew the canister and pour the carbonated cocktail over ice.
+    Express the lime and orange peels over the glass, then insert on the side of the glass and serve.
+
+Editor's Note
+
+Tropical Highball Cordial
+6 grams whole cloves
+6 grams whole star anise
+8 ounces coconut water
+30 grams ginger, peeled and sliced
+1 lime, zested
+8 grams citric acid
+4 grams malic acid
+2 grams lactic acid
+13 ounces white sugar
+3 ounces orgeat
+10 grams saline solution (4:1, water:salt)
+0.5 gram xanthan gum
+
+In a medium saucepan, toast the clove and star anise until aromatic. Turn off the heat, then add coconut water, ginger, lime zest, acid powders, saline solution and xanthan gum. Bring to a simmer. Add sugar, then stir until dissolved. Return mixture to a rolling simmer, then turn off the heat again. Let it sit for 10 minutes, then strain with a fine-mesh chinois. While warm, stir in the orgeat, then let cool before bottling. (Should keep for upwards of 1 month.)
+
+If using a half-liter iSi whipper, the single serving recipe can be doubled. If using a liter-sized iSi whipper, the recipe can be quadrupled. If making a bigger batch, increase the time in the ice bath to 30 minutes.`, `
+
+Rye and Dry
+Noel Venning, Three Sheets | London
+
+    Share story:
+    Share
+    Tweet
+    Email
+
+Built on a rye base complemented by apple cordial, this autumnal highball is dispensed directly from an iSi at London’s Three Sheets.
+
+    Print
+    Save
+
+Ingredients
+
+Servings
+
+    6 1/2 ounces rye whiskey
+    5 ounces apple cordial (see Editor's Note)
+    1 3/4 ounces 30&40 Double Jus Aperitif de Normandie
+    5 dashes Angostura bitters
+    17 ounces water
+
+Garnish: orange twist
+Directions
+
+    Mix all ingredients together, then refrigerate until well-chilled. Also refrigerate the liter-sized iSi canister.
+    Add the chilled liquid batch to the canister, charge it with one CO2 cartridge, then shake vigorously.
+    Allow the mix to rest for 20 minutes, then charge with another CO2 cartridge and shake a couple of times.
+    Rest in the refrigerator for as long as possible—at least 20 minutes—then de-gas the canister by pressing the trigger valve to boil off the CO2.
+    Unscrew the cap and gently pour the drink into a highball glass over ice. Garnish with an orange twist.
+
+Editor's Note
+
+Apple Cordial
+Mix 500 grams sugar and 10 grams malic acid into 17 ounces freshly pressed apple juice. Once sugar and acid are dissolved, bottle the mixture. Store for up to 1 month.`
 ]
 
 await Promise.all (
