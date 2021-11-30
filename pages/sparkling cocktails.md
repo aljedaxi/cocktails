@@ -15,7 +15,8 @@
   Spärkel on level 4 and pour over ice⁣⁣!
 - Grapefruit Moscow Mule
   * 3 oz. vodka
-      1 grapefruit
-      1 cup of ginger beer
-      ½ cup of ice
-  *
+  *    1 grapefruit
+  *    1 cup of ginger beer
+  *    ½ cup of ice
+  Add vodka, juice of ½ of the grapefruit, 2 slices of grapefruit, ginger beer and ice to your Spärkel bottle. Top off with water to 1” below fill line. Carbonate on desired level.
+-
