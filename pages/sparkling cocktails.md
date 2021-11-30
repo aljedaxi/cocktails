@@ -1,8 +1,7 @@
 - Aperol Spritz
-  
-  * ¾ cup of chilled dry white wine⁣
-  * 3 oz Aperol⁣
-  * 2 slices of orange, cut in quarters⁣
+  * ¾ cup of chilled [[dry [[white [[wine⁣]]]]]]
+  * 3 oz [[Aperol⁣]]
+  * 2 [[orange [[slice]]]]s, cut in quarters⁣
   * 1 cup of ice⁣
   * Water to fill line ⁣
   
