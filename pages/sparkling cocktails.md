@@ -1,3 +1,7 @@
+---
+tags: unprocessed
+---
+
 - Aperol Spritz
   * ¾ cup of chilled [[dry [[white [[wine⁣]]]]]]
   * 3 oz [[Aperol⁣]]
