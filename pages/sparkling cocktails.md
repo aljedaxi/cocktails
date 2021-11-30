@@ -7,9 +7,9 @@
   
   Carbonate on level 4
 - Pomegranate Rosemary Gin Sparkler
-  * 1 cup pomegranate juice⁣⁣
-  * 2 rosemary sprigs⁣⁣
-  * 2 oz gin (optional)⁣⁣
+  * 1 cup [[[[pomegranate]] juice⁣⁣]]
+  * 2 [[[[rosemary]] sprig⁣⁣]]s
+  * 2 oz [[gin]] (optional)⁣⁣
   * Water to 1” below fill line⁣⁣ 
   Spärkel on level 4 and pour over ice⁣⁣!
 - Grapefruit Moscow Mule
