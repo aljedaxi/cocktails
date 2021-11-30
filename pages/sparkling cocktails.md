@@ -30,8 +30,9 @@
   *    ½ pinch Saffron
   *    1 Cinnamon Sticks
   *    1 handful of ice cubes 
-  Instructions:
-- In an empty teabag, add your ginger slices and saffron.
-    Add teabag to your Spärkel bottle, 4 lemon wheels, and a handful of ice cubes.
-    Add the rest of the ingredients (break cinnamon stick in half). Close lid. Place Spärkel bottle to the machine, and set the machine to level 3.
-    Pour cocktail over fresh ice and stir with additional cinnamon stick.
+  Instructions: 
+  * In an empty teabag, add your ginger slices and saffron.
+  *  Add teabag to your Spärkel bottle, 4 lemon wheels, and a handful of ice cubes.
+  *  Add the rest of the ingredients (break cinnamon stick in half). Close lid. Place Spärkel bottle to the machine, and set the machine to level 3.
+  *  Pour cocktail over fresh ice and stir with additional cinnamon stick.
+-
