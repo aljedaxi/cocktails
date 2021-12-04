@@ -7,3 +7,4 @@
   > Ferrari
   > “The Ferrari, now and forever. We as society may never improve upon this combination,” says LaValla of the marriage of [[[[Fernet]]-Branca]] and [[Campari]] that’s become what writer Jennifer V. Cole dubbed “a handshake within a handshake for bartenders.”
 -
+  > 50/50 shot comprised of Amaro [[Montenegro]] and [[mezcal]] , better known as the Monte y Mezcal, or simply the M&M
