@@ -8,7 +8,7 @@ author: Jeff Solomon
 - Descriptions:
   For [[daquiri]] lovers
 - Ingredients:
-	- .75 oz lime
+	- .75 oz [[lime]]
 	- 1 oz [[apricot liqueur]]
 	- 1.5 oz [[jamaican [[rum]]]]
 - Instructions:
