@@ -504,7 +504,42 @@ Directions
 Editor's Note
 
 Apple Cordial
-Mix 500 grams sugar and 10 grams malic acid into 17 ounces freshly pressed apple juice. Once sugar and acid are dissolved, bottle the mixture. Store for up to 1 month.`
+Mix 500 grams sugar and 10 grams malic acid into 17 ounces freshly pressed apple juice. Once sugar and acid are dissolved, bottle the mixture. Store for up to 1 month.`,`
+
+Valentino
+	Gary “Gaz” Regan | New York City
+	photo: Lizzie Munro
+
+	    Share story:
+	    Share
+	    Tweet
+	    14Save
+	    Email 
+
+	    Cocktail 
+
+	The late bar legend Gary “Gaz” Regan published his Valentino recipe in his groundbreaking book The Joy of Mixology. Beginning with the Negroni template, Regan departed from the equal-parts ratio, swapped gin for vodka and served the drink up for a cocktail that he describes as “far different from the Negroni.”
+
+	    Print
+	    Save
+
+	Ingredients
+
+	Serving: 1
+
+	    2 ounces vodka
+	    1/2 ounce Campari
+	    1/2 ounce sweet vermouth
+
+	Garnish: orange twist
+	Directions
+
+	    Combine all ingredients in a mixing glass with ice and stir until chilled.
+	    Strain into a chilled coupe or cocktail glass.
+	    Garnish with an orange twist.
+
+	Tagged: Campari, vodka
+`
 ]
 
 await Promise.all (
