@@ -220,9 +220,6 @@
  {:block/name "apple cider",
   :block/created-at 1651247494466,
   :block/updated-at 1651247494466}
- {:block/name "apr 30th, 2022",
-  :block/created-at 1651360987593,
-  :block/updated-at 1651360987593}
  {:block/name "apricot liqueur",
   :block/created-at 1631494272574,
   :block/updated-at 1631494272574}
@@ -967,18 +964,12 @@
  {:block/name "jun 1st, 2021",
   :block/created-at 1622505600000,
   :block/updated-at 1622505600000}
- {:block/name "jun 1st, 2022",
-  :block/created-at 1654137925944,
-  :block/updated-at 1654137925944}
  {:block/name "jun 21st, 2021",
   :block/created-at 1624233600000,
   :block/updated-at 1624233600000}
- {:block/name "jun 2nd, 2022",
-  :block/created-at 1654149645594,
-  :block/updated-at 1654149645594}
- {:block/name "jun 3rd, 2022",
-  :block/created-at 1654236004758,
-  :block/updated-at 1654236004758}
+ {:block/name "jun 27th, 2022",
+  :block/created-at 1656377665884,
+  :block/updated-at 1656377665884}
  {:block/name "jun 6th, 2021",
   :block/created-at 1622937600000,
   :block/updated-at 1622937600000}
@@ -1123,21 +1114,9 @@
  {:block/name "mature",
   :block/created-at 1631494272572,
   :block/updated-at 1631494272572}
- {:block/name "may 1st, 2022",
-  :block/created-at 1651384800108,
-  :block/updated-at 1651384800108}
- {:block/name "may 21st, 2022",
-  :block/created-at 1653167326978,
-  :block/updated-at 1653167326978}
  {:block/name "may 23rd, 2021",
   :block/created-at 1621728000000,
-  :block/updated-at 1634957884108}
- {:block/name "may 24th, 2022",
-  :block/created-at 1653404451039,
-  :block/updated-at 1653404451039}
- {:block/name "may 25th, 2022",
-  :block/created-at 1653527748860,
-  :block/updated-at 1653527748860}
+  :block/updated-at 1656377681631}
  {:block/name "may 26th, 2022",
   :block/created-at 1653584860635,
   :block/updated-at 1653587330241}
@@ -1698,7 +1677,7 @@
   :block/updated-at 1651247494458}
  {:block/name "todo",
   :block/created-at 1631494272573,
-  :block/updated-at 1631494272573}
+  :block/updated-at 1656377678357}
  {:block/name "tom macy’s gimlet",
   :block/created-at 1631494272574,
   :block/updated-at 1631494272574}
