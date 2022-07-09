@@ -7,7 +7,6 @@ tags: Recipe
 
 - Ingredients
 - 2 ounces [[gin]], preferably Plymouth
-- 3 ounces fresh-squeezed [[[[orange]] juice]]
 - 1/2 ounce [[[[lemon]] juice]]
 - 1/2 ounce [[Galliano]] liqueur
 - 1 teaspoon rich [[cane sugar syrup]] (2:1, cane sugar:water)
